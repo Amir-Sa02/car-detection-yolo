@@ -1,0 +1,4 @@
+﻿video_a,video_b,frames_a,frames_b,sampled_a,sampled_b,median_nearest_dhash_distance,best_distance,example_a,example_b
+Record407_D,Record409_D,141,333,32,32,2.5,0,Record407_D__Record407_D_499.jpg,Record409_D__Record409_D_261.jpg
+Record416_R,Record438_R,201,348,32,32,13.5,2,Record416_R__Record416_R_884.jpg,Record438_R__Record438_R_890.jpg
+Record043_D,Record042_D,83,154,32,32,2.0,0,Record043_D__Record043_D_068667.jpg,Record042_D__Record042_D_068058.jpg

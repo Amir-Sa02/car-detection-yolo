@@ -1,12 +1,9 @@
-# -*- coding: utf-8 -*-
-"""Build iadd_subset_v5 - honest rebuild of v4.
+"""iadd_subset_v5
 
 Changes vs v4:
   * EXCLUDE confirmed-broken-label videos (Record426_D, Record046_D).
-  * EXCLUDE one copy of each duplicate-video pair so no near-duplicate can straddle
-    splits (drop Record407_D, Record416_R, Record043_D; their twins stay).
-  * Fresh blind reshuffle (new SEED) so the val/test partition is redrawn without any
-    reference to model scores -> val and test should land close to the true average.
+  * EXCLUDE one copy of each duplicate-video pair (drop Record407_D, Record416_R, Record043_D; their twins stay).
+  * Fresh blind reshuffle (new SEED) so the val/test partition is redrawn without any reference to model scores
 Everything else (whole-video split, 70/15/15 by image, rare-class balance,
 condition stratification, 1280 px) is identical to the tested v4 build.
 
@@ -19,7 +16,7 @@ from PIL import Image
 SRC = r"D:\projects\car-detection-yolo\dataset\IADD"
 OUT = r"D:\projects\car-detection-yolo\dataset\iadd_subset_v5"
 MAX_SIDE, JPEG_QUALITY = 1280, 88
-SEED = 80                         # group-stratified: best val/test balance on object-size + class + weather
+SEED = 80                         # best val/test balance on object-size + class + weather
 DRY_RUN = False                   # True = stats only, no image copying
 LABELED = ["train_part1", "train_part2", "train_part3", "val"]
 NAMES = ["person", "car", "motorcycle", "bus", "truck", "traffic_light"]
@@ -72,7 +69,7 @@ def frames_of(record, folders):
             if os.path.exists(txt):
                 out.append((jpg, txt, f"{record}__{stem}", tuple(read_classes(txt))))
                 seen.add(stem)
-    return out
+    return out  # list of (jpg, txt, stem, cls) for all frames in the record
 
 
 def resize_save(src_jpg, dst_jpg):
@@ -87,12 +84,20 @@ def resize_save(src_jpg, dst_jpg):
 def main():
     print("reading videos + labels ...", flush=True)
     rec_map = record_dirs()
+    # Frames info per each video (record). Each frame: (jpg, txt, stem, cls)
     videos = {r: frames_of(r, folders) for r, folders in rec_map.items() if r not in EXCLUDE}
+    # Count of frames per video
     vsize = {r: len(v) for r, v in videos.items()}
     print(f"videos: {len(videos)} (excluded {len(EXCLUDE)})  total frames: {sum(vsize.values()):,}", flush=True)
 
     def rare_score(r):
-        return sum(1 for _, _, _, cls in videos[r] for c in cls if c in RARE_SCARCE)
+        count = 0
+        for frame in videos[r]:
+            classes = frame[3]
+            for c in classes:
+                if c in RARE_SCARCE:
+                    count += 1
+        return count
 
     by_cond = defaultdict(list)
     for r in videos:
@@ -100,10 +105,20 @@ def main():
 
     assign = {}
     for cond, recs in by_cond.items():
-        rt = {s: FRAC[s] * sum(rare_score(r) for r in recs) for s in FRAC}
-        ft = {s: FRAC[s] * sum(vsize[r] for r in recs) for s in FRAC}
-        sr, sf = Counter(), Counter()
-        # blind reshuffle: shuffle within condition before the deficit-greedy assignment
+        total_rare = 0
+        total_frames = 0
+        for r in recs:
+            total_rare += rare_score(r)
+            total_frames += vsize[r]
+        rt = {}  # target rare counts per split
+        ft = {} # target frame counts per split
+        for s in FRAC:
+            rt[s] = FRAC[s] * total_rare
+            ft[s] = FRAC[s] * total_frames
+        sr = Counter()  # rare counts per split
+        sf = Counter()  # frame counts per split
+
+        # Process videos with more rare instances first, then assign each to the split with the largest deficit.
         recs = sorted(recs)
         random.Random(SEED).shuffle(recs)
         for r in sorted(recs, key=lambda r: (-rare_score(r), -vsize[r])):
@@ -121,61 +136,73 @@ def main():
     print(f"video split -> train {len(tr)} | val {len(va)} | test {len(te)}  (no overlap)", flush=True)
 
     def sample(split):
-        frames = [fr for r in videos if assign[r] == split for fr in videos[r]]
-        keep = [f for f in frames if set(f[3]) & KEEP_CLASSES]
-        common = [f for f in frames if not (set(f[3]) & KEEP_CLASSES)]
+        frames = []
+        for r in videos:
+            if assign[r] == split:
+                for frame in videos[r]:
+                    frames.append(frame)
+        keep = []
+        common = []
+        for frame in frames:
+            has_rare_class = False
+            for class_id in frame[3]:
+                if class_id in KEEP_CLASSES:
+                    has_rare_class = True
+                    break
+            if has_rare_class:
+                keep.append(frame)
+            else:
+                common.append(frame)
         random.Random(SEED).shuffle(common)
-        sel = keep + common[:max(0, TARGET[split] - len(keep))]
-        random.Random(SEED).shuffle(sel)
-        return sel
+        needed = TARGET[split] - len(keep)
+        if needed < 0:
+            needed = 0
+        selected = keep + common[:needed]
+        random.Random(SEED).shuffle(selected)
+        return selected
 
     sel = {s: sample(s) for s in ("train", "val", "test")}
 
-    # ---- stats (condition mix + crowd are the difficulty proxies) ----
-    print("\n" + "=" * 64)
-    print("PLAN" if DRY_RUN else "iadd_subset_v5 BUILT")
-    print("=" * 64)
-    tot = sum(len(sel[s]) for s in sel)
-    print(f"videos per split: train {len(tr)} | val {len(va)} | test {len(te)}")
-    for s in ("train", "val", "test"):
-        imgs = sel[s]
-        inst = sum(len(c[3]) for c in imgs)
-        cond = Counter(c[2].split("__")[0].split("_")[-1] for c in imgs)
-        condpct = {k: f"{100*v/len(imgs):.0f}%" for k, v in sorted(cond.items())}
-        print(f"  {s:<5} {len(imgs):>6,} imgs ({100*len(imgs)/tot:>4.1f}%)  inst/img={inst/len(imgs):.1f}  cond={condpct}")
-    print("\nclass instances per split:")
-    print(f"  {'class':<15}{'train':>9}{'val':>8}{'test':>8}{'val%':>7}{'test%':>7}")
-    ctr = {s: Counter(c for im in sel[s] for c in im[3]) for s in sel}
-    for i, nm in enumerate(NAMES):
-        t, v, e = ctr['train'][i], ctr['val'][i], ctr['test'][i]
-        tot_i = t + v + e
-        print(f"  {nm:<15}{t:>9,}{v:>8,}{e:>8,}{100*v/tot_i:>6.1f}%{100*e/tot_i:>6.1f}%")
+    for split in ("train", "val", "test"):
+        instances = 0
+        for frame in sel[split]:
+            instances += len(frame[3])
+        print(split, "images:", len(sel[split]), "instances:", instances)
 
     if DRY_RUN:
-        print("\n(DRY_RUN: no images written. Set DRY_RUN=False to build.)")
+        print("DRY_RUN: no files written.")
         return
 
     if os.path.isdir(OUT):
         shutil.rmtree(OUT)
-    for s in ("train", "val", "test"):
-        os.makedirs(os.path.join(OUT, "images", s), exist_ok=True)
-        os.makedirs(os.path.join(OUT, "labels", s), exist_ok=True)
-    for s in ("train", "val", "test"):
-        idir, ldir = os.path.join(OUT, "images", s), os.path.join(OUT, "labels", s)
-        for n, (jpg, txt, uniq, cls) in enumerate(sel[s], 1):
-            resize_save(jpg, os.path.join(idir, uniq + ".jpg"))
-            shutil.copy2(txt, os.path.join(ldir, uniq + ".txt"))
-            if n % 2000 == 0:
-                print(f"  {s}: {n}/{len(sel[s])}", flush=True)
-        print(f"  {s}: done ({len(sel[s])} images)", flush=True)
-    with open(os.path.join(OUT, "data.yaml"), "w", encoding="utf-8") as f:
-        f.write("# IADD subset v5 (leakage-free, broken+duplicate videos removed, blind reshuffle)\n")
-        f.write(f"path: {COLAB_PATH}\n")
-        f.write("train: images/train\nval: images/val\ntest: images/test\n\nnc: 6\nnames:\n")
-        for i, nm in enumerate(NAMES):
-            f.write(f"  {i}: {nm}\n")
-    print(f"\nOutput: {OUT}")
-    print(f'  Compress-Archive -Path "{OUT}\\*" -DestinationPath "{OUT}.zip" -Force')
+
+    for split in ("train", "val", "test"):
+        image_dir = os.path.join(OUT, "images", split)
+        label_dir = os.path.join(OUT, "labels", split)
+        os.makedirs(image_dir, exist_ok=True)
+        os.makedirs(label_dir, exist_ok=True)
+
+        for frame in sel[split]:
+            jpg = frame[0]
+            txt = frame[1]
+            name = frame[2]
+            resize_save(jpg, os.path.join(image_dir, name + ".jpg"))
+            shutil.copy2(txt, os.path.join(label_dir, name + ".txt"))
+
+        print(split, "saved", flush=True)
+
+    yaml_path = os.path.join(OUT, "data.yaml")
+    with open(yaml_path, "w", encoding="utf-8") as f:
+        f.write("path: " + COLAB_PATH + "\n")
+        f.write("train: images/train\n")
+        f.write("val: images/val\n")
+        f.write("test: images/test\n")
+        f.write("\nnc: 6\n")
+        f.write("names:\n")
+        for class_id, name in enumerate(NAMES):
+            f.write("  " + str(class_id) + ": " + name + "\n")
+
+    print("Output:", OUT)
 
 
 if __name__ == "__main__":

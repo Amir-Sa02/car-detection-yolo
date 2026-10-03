@@ -135,6 +135,8 @@ def main():
     assert not (tr & va) and not (tr & te) and not (va & te)
     print(f"video split -> train {len(tr)} | val {len(va)} | test {len(te)}  (no overlap)", flush=True)
 
+
+    # Defining which images to keep in the final dataset 
     def sample(split):
         frames = []
         for r in videos:
@@ -149,6 +151,7 @@ def main():
                 if class_id in KEEP_CLASSES:
                     has_rare_class = True
                     break
+            # If the frame has a rare class, keep it; otherwise, add it to the common list
             if has_rare_class:
                 keep.append(frame)
             else:

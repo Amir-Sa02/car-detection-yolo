@@ -24,6 +24,7 @@ def analyze(split):
         cond[rec.split("_")[-1]] += 1
         t = f"{DS}/labels/{split}/{stem}.txt"
         if os.path.exists(t):
+            # Read the label file and count instances, classes, and sizes
             for line in open(t):
                 q = line.split()
                 if len(q) == 5:

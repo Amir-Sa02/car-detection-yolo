@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+outputs/
+dataset/
+packages/
+*.cache
+*.log
+~$*
+*_data_local.yaml
+private-archive/
+*.pt
+!models/run8_best.pt

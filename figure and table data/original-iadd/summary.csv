@@ -1,0 +1,4 @@
+﻿split,videos,images,labeled_images,missing_labels,instances,instances_per_labeled_image,invalid_lines
+train,165,76284,76284,0,509997,6.69,0
+val,144,7127,7127,0,48734,6.84,0
+test,145,14486,0,14486,0,,0

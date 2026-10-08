@@ -1,0 +1,3162 @@
+[
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\car-detection-yolo\\code\\build_subset_v5.py",
+    "destination": "archive/defense-edited-code/build_subset_v5.py",
+    "sha256": "e0137ea786e6bafee2f66a82f14b1f009668ef43aa4de14b12fa5234bf616460"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\car-detection-yolo\\code\\compute_v5_validity.py",
+    "destination": "archive/defense-edited-code/compute_v5_validity.py",
+    "sha256": "6f4805a25dd9751daddbbfa3d1a7a14b9221080ee73f3e4060e70d2c82b50bb3"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\car-detection-yolo\\code\\IADD_YOLOv11_Colab_pervideo.ipynb",
+    "destination": "archive/defense-edited-code/IADD_YOLOv11_Colab_pervideo.ipynb",
+    "sha256": "fdebe47191942e3e216ec66138ffe4c4aab547a884ee2faacee34cc773cec193"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\car-detection-yolo\\code\\IADD_YOLOv11_Colab_run8.ipynb",
+    "destination": "archive/defense-edited-code/IADD_YOLOv11_Colab_run8.ipynb",
+    "sha256": "a063b6a80fff5a1a49020e91f2f9a872ce1cf3b7a68b0e71ae887136a87a497a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\build_subset.py",
+    "destination": "archive/colab-history/build_subset.py",
+    "sha256": "69061bdd74f3aff661626f50f9d8e033143f44b17ca7e7a24e205e49726d4e3f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\build_subset_v4.py",
+    "destination": "archive/colab-history/build_subset_v4.py",
+    "sha256": "99f7c0447cac7cfd5a4399880d8f41c97844a4871a35fc27d27c1d0cb9d98fd6"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\build_subset_v5.py",
+    "destination": "archive/colab-history/build_subset_v5.py",
+    "sha256": "0a6c28dd0ea9e0871c3fa41ffa9a443f02291d84d0c08efeffa572fe092707ec"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\eval_exclude.txt",
+    "destination": "archive/colab-history/eval_exclude.txt",
+    "sha256": "f56cbea1f282a0dfd99ae6a013ca5f0a301cda56bd81ebe56d758c3e93505b35"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\figures.ipynb",
+    "destination": "archive/colab-history/figures.ipynb",
+    "sha256": "f21629a1d44cc633ce070284c5007de6e0582d41320956a64338bb0a1a618d5c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_cleaneval.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_cleaneval.ipynb",
+    "sha256": "5c6541b741f3080d53dc358e65e2e1767519daa208d44f156e32ceeafce68d94"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_main.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_main.ipynb",
+    "sha256": "6f5db1e8407687468d820f89f331f015745083d7ee38d2f0cb37a304caf7f6e7"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_main_v5.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_main_v5.ipynb",
+    "sha256": "27f9d8fa0ae2c8fc244c58ff9bb6994b99c2447fcc12b1be23545d9f63341377"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_pervideo.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_pervideo.ipynb",
+    "sha256": "b231daad6c393e438eaba32c829e5772ae7b798fbcb4fbe75ea6a4eb39778c00"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_run10.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_run10.ipynb",
+    "sha256": "5dc16fce097af6554b55423576a45e5a675ffa8df01c15bf56df51799bdb6e7e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_run8.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_run8.ipynb",
+    "sha256": "dbdb25a0eed4c145ca164ddd2f23647c442b20539815675a7f80299769c21806"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_run9.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_run9.ipynb",
+    "sha256": "4b23e33f599695e9323fed83c455526f727db7a558eaaf4feb3341eb89ae8e39"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_v3-2.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_v3-2.ipynb",
+    "sha256": "6294976474ae2db4721c5d45c993c5acaada5c70d79be555108541c2521ff9ea"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_v3.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_v3.ipynb",
+    "sha256": "c79077ef0b55536487a3f72cca9748f6d03447250d4770e3c02e26f0f4713fdc"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_v4-2.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_v4-2.ipynb",
+    "sha256": "7f7e235e3cab82d010f094bcc73adc55e69c7cd57fac9d5a9e5dc1fdd9edff65"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_v4.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_v4.ipynb",
+    "sha256": "b1bf90d38bbe7fdd8a71c2476222ff827d7b4cee2be4484a114c2d79b0bf2d9d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_v5.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_v5.ipynb",
+    "sha256": "042a64e89e49a7fbe99393f740f5124f1c0e68c84e626d22888eec616dcf6d20"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_v5_finish.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_v5_finish.ipynb",
+    "sha256": "e2a6bb08c9d72d3ba68564289c33db885eb61c4c0cf80e8dbfa0450e66ad6511"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_v6.ipynb",
+    "destination": "archive/colab-history/IADD_YOLOv11_Colab_v6.ipynb",
+    "sha256": "41c3d3852a03d615847f4eb00921e3131e7c9e7ecd7eefc905f55e4631d523c0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\README.md",
+    "destination": "archive/colab-history/README.md",
+    "sha256": "37ee894d95b58aca18fa5e3571566d99ba976a7bfefa2388c43dd3edac91b1c7"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\_nbpaths.txt",
+    "destination": "archive/colab-history/_nbpaths.txt",
+    "sha256": "2117665132e2d4f15caab3600310fc3cda47d8f5afed65e81db3f508fe83d88e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\args.yaml",
+    "destination": "archive/experiment-results/run2/args.yaml",
+    "sha256": "9d1383a434552a6426ee2b6190934d9d4cbc5f199945982bed5160c522b61117"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\BoxF1_curve.png",
+    "destination": "archive/experiment-results/run2/BoxF1_curve.png",
+    "sha256": "45a0eb604348b9adba0675fe426e6019d7643e0aca7b2017cec08b6164382909"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\BoxPR_curve.png",
+    "destination": "archive/experiment-results/run2/BoxPR_curve.png",
+    "sha256": "066ef8ea19020012724330f446f4fa28cd1f912c66e104df769356b7742757c6"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\BoxP_curve.png",
+    "destination": "archive/experiment-results/run2/BoxP_curve.png",
+    "sha256": "3df271867775fda3fa4dfd13ca13e634910301156c44f309d05948d9951039e9"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\BoxR_curve.png",
+    "destination": "archive/experiment-results/run2/BoxR_curve.png",
+    "sha256": "5b04efa94fba26f379fdde3bed3303a4075f4f89e024170735e2d544358877c4"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\confusion_matrix.png",
+    "destination": "archive/experiment-results/run2/confusion_matrix.png",
+    "sha256": "cb3254e672114ed16631e94fe7175a43b1819a48575b8b1df39d5ec2f93af846"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\confusion_matrix_normalized.png",
+    "destination": "archive/experiment-results/run2/confusion_matrix_normalized.png",
+    "sha256": "4782c8d78f1486455aba6fb9643f5f2a1be78fa0bf9224b7cb6e46727d03a9f0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\labels.jpg",
+    "destination": "archive/experiment-results/run2/labels.jpg",
+    "sha256": "aa10a6cd7479b755ba3a21f5e71ee78134a4741e012a47676357374422c9302d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\results.csv",
+    "destination": "archive/experiment-results/run2/results.csv",
+    "sha256": "c52f48aa28285d768c1ee9e8a2e08a681dbdf21fe1780e3ddf4855a18e698378"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\val_batch0_labels.jpg",
+    "destination": "archive/experiment-results/run2/val_batch0_labels.jpg",
+    "sha256": "7da38a0863f9053f8603f44e162d76b8dbeee3e1a7ad8f8a0bb70b0981c21229"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\val_batch0_pred.jpg",
+    "destination": "archive/experiment-results/run2/val_batch0_pred.jpg",
+    "sha256": "34f722bd7ed0700482b24ec480c2b07b5b6614b0f026c4df49414aa326198bab"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\val_batch1_labels.jpg",
+    "destination": "archive/experiment-results/run2/val_batch1_labels.jpg",
+    "sha256": "07c869a17ad982754bf73a8eebfc8302e5e731d8cf38088fcba798882d501e2a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\val_batch1_pred.jpg",
+    "destination": "archive/experiment-results/run2/val_batch1_pred.jpg",
+    "sha256": "a19fa3a4cab68c2d9504c0e50f18247cdbda0fdb11d9fd52942ba7c92505a0f4"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\val_batch2_labels.jpg",
+    "destination": "archive/experiment-results/run2/val_batch2_labels.jpg",
+    "sha256": "ea18e06bf3b2c668c48f65b1aafc07a842e98aaa1d42328db56971ae2e305c02"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run2\\val_batch2_pred.jpg",
+    "destination": "archive/experiment-results/run2/val_batch2_pred.jpg",
+    "sha256": "54766fabc90dbbd55d5e235facae1b52b60904969d33d8bfae6619ef0fa6dd37"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\args.yaml",
+    "destination": "archive/experiment-results/run5/args.yaml",
+    "sha256": "eaa03ed0499ca5464a30cb2e2882bf772137ee222d5d5429200da5210ba5460f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\labels.jpg",
+    "destination": "archive/experiment-results/run5/labels.jpg",
+    "sha256": "c214254a7327c80bd2cc917c1a7cfe213e304311c3cd17bc9b96873698a433d8"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\results.csv",
+    "destination": "archive/experiment-results/run5/results.csv",
+    "sha256": "60ec05ddb74088eec4cded2013bef4eab79ea644191b034273e7f1c8d3161940"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\train_batch0.jpg",
+    "destination": "archive/experiment-results/run5/train_batch0.jpg",
+    "sha256": "501c11f7bcd11703f320bb388c100d04e4b7881daae5b184786c1b4c7e067198"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\train_batch1.jpg",
+    "destination": "archive/experiment-results/run5/train_batch1.jpg",
+    "sha256": "677a209d031c088c484ad9c9bef0c74b40c10a22fe25705c1bcf32aff6874054"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\train_batch2.jpg",
+    "destination": "archive/experiment-results/run5/train_batch2.jpg",
+    "sha256": "7e3e67d048900a026e6a1277fd6e1c339688109ab287720baca2cc9f03bfeb5f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record003_D__Record003_D_75.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record003_D__Record003_D_75.jpg",
+    "sha256": "386877ca67137065a329bfa1a0837a39a0d72a1c0481829c160864e0b4c6a851"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record006_D__Record006_D_74.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record006_D__Record006_D_74.jpg",
+    "sha256": "c82e477464bae6fbbaabd5dc2e984d75152282ebc220074aa3db719936a79e01"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record024_D__Record024_D_Record024_D_046168.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record024_D__Record024_D_Record024_D_046168.jpg",
+    "sha256": "3211d842f6e50b0664aa73399628b786c79535ca10b30f4aa33de23f226e3394"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record053_D__Record053_D_085706.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record053_D__Record053_D_085706.jpg",
+    "sha256": "70e0be03a9c5e6b5cb56384d86ea05a63e3b946a638b6b7335ba0db5b7b93bc4"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record100_N__Record100_N_81.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record100_N__Record100_N_81.jpg",
+    "sha256": "b967801d24b07c72782289d6035da9ce72a350daf7b5649d90f39565f5b64794"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record112_D__Record112_D_78.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record112_D__Record112_D_78.jpg",
+    "sha256": "346dcf2093a1f3153bd7d669976a46f4234ce3f2efabf64160ab67e0a63cdb8a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record114_D__Record114_D_129.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record114_D__Record114_D_129.jpg",
+    "sha256": "45d316c3ebe9bee63776f212a12919407f29c2382fc0620b25cd4c78b682d4a9"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record115_D__Record115_D_22.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record115_D__Record115_D_22.jpg",
+    "sha256": "e790a4663fb9a06aeebd12efcc878d37e5786547462a7c918f3ff23480c1ba3f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record117_D__Record117_D_43.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record117_D__Record117_D_43.jpg",
+    "sha256": "8eebe14eab20377f57f172217b082397f6d581476e9343ca00e55d87b00f363d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record131_D__Record131_D_77.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record131_D__Record131_D_77.jpg",
+    "sha256": "73a2663136db67b0595d84107c352e86fc35398f36fe0557d9f7c2a799a234dc"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record133_D__Record133_D_10.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record133_D__Record133_D_10.jpg",
+    "sha256": "3cd7596c02558fabb9ad80ccd986919ade58b1a73628d1b72aa4bbf5cbc93080"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record134_D__Record134_D_29.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record134_D__Record134_D_29.jpg",
+    "sha256": "413a5e85d96ba867a736df41f3f29918a5b0cab1a3a94acd7f0dec4663391759"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record204_R__Record204_R_373.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record204_R__Record204_R_373.jpg",
+    "sha256": "cc41b39fec459cef1980a6bf9cc7f6bec7f38b188b939885dbd20a8f2660852c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record309_D__Record309_D_237.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record309_D__Record309_D_237.jpg",
+    "sha256": "f03833b98eac9c5dad3bcd53752b2f0f3a58a16ab469a16df1fe7a32312ef18d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record413_D__Record413_D_713.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record413_D__Record413_D_713.jpg",
+    "sha256": "2b54a126518ce74f2a3682a4ae0bacb100341fb88e26df34dee6e9772a22945f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record415_A__Record415_A_656.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record415_A__Record415_A_656.jpg",
+    "sha256": "4501dba7a5226ef0295ddfc9957de1ed612ba9685c15b336d1e1be3e671fc94a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record425_D__Record425_D_538.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record425_D__Record425_D_538.jpg",
+    "sha256": "39349a4041de3f002a6c4dfb9f64a0a6c2d0a9ee9cfd0a28fcfceba31db488e2"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record427_D__Record427_D_149.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record427_D__Record427_D_149.jpg",
+    "sha256": "adc74ae343b41ad0e076af406455534af63b01ade87b457ade83b51eb6296909"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record435_R__Record435_R_304.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record435_R__Record435_R_304.jpg",
+    "sha256": "a11cf8020b5de17e2de24e85d444ebeb2a146cb179a75b578276077a5a9a5228"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\Record438_R__Record438_R_895.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/Record438_R__Record438_R_895.jpg",
+    "sha256": "4a38b1396c62eb60d56a3dfa3aa9e530a8dec511083d0a07ca012e4163cca59b"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\run8_demo\\_contact_sheet.jpg",
+    "destination": "archive/experiment-results/run8/run8_demo/_contact_sheet.jpg",
+    "sha256": "d317981c2db2a73c222f68301ac3ce35315e6521f4b04e48c5e9fde1456a9d33"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_contact_sheet_pairs.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_contact_sheet_pairs.jpg",
+    "sha256": "ed7d61342d0625ec11d45877e8b59c31f04afd9198229b42e01ae2714f210e3c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\fig_perclass_F1.png",
+    "destination": "archive/experiment-results/run8/thesis figures/fig_perclass_F1.png",
+    "sha256": "8a44171c517f0394f8c1ce84deb25543c9b52500d0aeed2f2fe23e5422e86687"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\fig_perclass_mAP.png",
+    "destination": "archive/experiment-results/run8/thesis figures/fig_perclass_mAP.png",
+    "sha256": "6ac46d8e3d37c26c13df4c3351c1009923ac4565f42a67439301cdc6f2779ab2"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\fig_run_comparison.png",
+    "destination": "archive/experiment-results/run8/thesis figures/fig_run_comparison.png",
+    "sha256": "6098d9fb932399f04e947595342d559e6afe61e3aae85ba15887a6e5ed31136d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\perclass_metrics.csv",
+    "destination": "archive/experiment-results/run8/thesis figures/perclass_metrics.csv",
+    "sha256": "c2562d8b28e62cf19fb01dd0676d654c486e1f63f6cba753741d6b14aaf087b8"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\test_confusion_matrix.png",
+    "destination": "archive/experiment-results/run8/thesis figures/test_confusion_matrix.png",
+    "sha256": "b959e7b17149d644f549fa3895f039924506b33f2d7ec1cf2c5d2b839334e3ae"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\test_PR_curve.png",
+    "destination": "archive/experiment-results/run8/thesis figures/test_PR_curve.png",
+    "sha256": "ee9cba3b90c9b648bc13416d480c8c92e090dcf0049274d15423b554a0d28d08"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\training_curves.png",
+    "destination": "archive/experiment-results/run8/thesis figures/training_curves.png",
+    "sha256": "92c91d13922e7e7aca3f2fc0aa7740dc2583c66738eae097505c84d2c615d3bb"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\val_PR_curve.png",
+    "destination": "archive/experiment-results/run8/thesis figures/val_PR_curve.png",
+    "sha256": "4a0821d3de9ea15e97b55aeac1acd436d7878ac8823d75c3b0e3ea0b7fbba9e4"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\A_gt_Record105_A__Record105_A_18.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/A_gt_Record105_A__Record105_A_18.jpg",
+    "sha256": "6cec3ba6e5d902074f73e8089a99a68760288c2108198102728199e2dcc80b8a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\A_gt_Record105_A__Record105_A_60.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/A_gt_Record105_A__Record105_A_60.jpg",
+    "sha256": "80135c6dd5d91b7404aefd4efd9e9d65ca05e38e14ee54cb4652dd7668809d6f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\A_gt_Record105_A__Record105_A_64.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/A_gt_Record105_A__Record105_A_64.jpg",
+    "sha256": "f310a378ef6dee09846b508edeb816822d209c5708ea7b9a344cd77d52eff148"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\A_gt_Record415_A__Record415_A_863.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/A_gt_Record415_A__Record415_A_863.jpg",
+    "sha256": "20d0bbe904ed641d498cde42e8fa2ed3476b39fb03b756d65fa8ccb0ed3a6c17"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\D_gt_Record006_D__Record006_D_75.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/D_gt_Record006_D__Record006_D_75.jpg",
+    "sha256": "dfd77fa54d4328f47b3a73bee77c6716dd2a059cfbac89da1a493031ee1137f6"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\D_gt_Record024_D__Record024_D_Record024_D_046513.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/D_gt_Record024_D__Record024_D_Record024_D_046513.jpg",
+    "sha256": "48eb8d59ad7ad78bd6dce7234cc09f87c900570d035cd2c008fbe148285ccc73"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\D_gt_Record114_D__Record114_D_126.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/D_gt_Record114_D__Record114_D_126.jpg",
+    "sha256": "536b93e419475c6241f83f8bdaa71ac47b1b87e0ac74aaa882031c9cec132570"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\D_gt_Record427_D__Record427_D_26.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/D_gt_Record427_D__Record427_D_26.jpg",
+    "sha256": "3f62ac46d9c5361799b3075739dbb0217c6bd48e48281225ee5d9db4e08e6d5e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\N_gt_Record020_N__Record020_N_Record020_N_042442.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/N_gt_Record020_N__Record020_N_Record020_N_042442.jpg",
+    "sha256": "60c7e228e3d34b77c00c8c364e5bc69a454c12185b6e9c8e96f59b0dae7e75a3"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\N_gt_Record020_N__Record020_N_Record020_N_042527.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/N_gt_Record020_N__Record020_N_Record020_N_042527.jpg",
+    "sha256": "d8788f911dc29b023a20d5461e448734d14c48b713f2f6eeb9bda81c4ebaedc7"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\N_gt_Record031_N__Record031_N_Record031_N_054948.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/N_gt_Record031_N__Record031_N_Record031_N_054948.jpg",
+    "sha256": "0eb5875edd6ca1a29e570d3d6fb8c12614b1b818d2593ddf898e5420dd5f86c0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\N_gt_Record100_N__Record100_N_77.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/N_gt_Record100_N__Record100_N_77.jpg",
+    "sha256": "81bacd0613e3ea771cd7fa099c9c2b9616eb42787cb568fefc5eefae6781744f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\R_gt_Record204_R__Record204_R_147.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/R_gt_Record204_R__Record204_R_147.jpg",
+    "sha256": "d30dceab3ac11adf14b9553155e3f79a90d8a3cd81429167a7717e00eab52332"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\R_gt_Record438_R__Record438_R_144.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/R_gt_Record438_R__Record438_R_144.jpg",
+    "sha256": "3059d30d53ebef7e7175cb6bbec41513385bcf4a19a52ba3c7432efcd2f370e1"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\R_gt_Record438_R__Record438_R_325.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/R_gt_Record438_R__Record438_R_325.jpg",
+    "sha256": "a858deacf63bd36ef7f030854c21385b21198e8fd98e7f9c1e70aa4232ab2ad7"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_gt\\R_gt_Record438_R__Record438_R_889.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_gt/R_gt_Record438_R__Record438_R_889.jpg",
+    "sha256": "8aeabe29b2d0497bea04e2a5db152e02c857a9a06a40673191570b2e47cccc88"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\A_pair_Record105_A__Record105_A_18.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/A_pair_Record105_A__Record105_A_18.jpg",
+    "sha256": "c26cc89446d273d3c9c130e944583296043abac7eb07099e14b182f6e0e3557a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\A_pair_Record105_A__Record105_A_60.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/A_pair_Record105_A__Record105_A_60.jpg",
+    "sha256": "5a40f558d6d7e26459afc78684d621612ef9e73039e659584e65e239bdc7624d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\A_pair_Record105_A__Record105_A_64.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/A_pair_Record105_A__Record105_A_64.jpg",
+    "sha256": "2487fbc0eebc6e0e25b5f2226254f174ccd1a6c35dc28c5cffefad914edd000c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\A_pair_Record415_A__Record415_A_863.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/A_pair_Record415_A__Record415_A_863.jpg",
+    "sha256": "13b1bcd852750dc550ed212bbb9a6b108f574cd2379e2cffb51ee87cc58db4c7"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\D_pair_Record006_D__Record006_D_75.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/D_pair_Record006_D__Record006_D_75.jpg",
+    "sha256": "3388e6f1e7e38040c03836f6bd2035e79096430f54a57cf920727f9b6ff644e5"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\D_pair_Record024_D__Record024_D_Record024_D_046513.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/D_pair_Record024_D__Record024_D_Record024_D_046513.jpg",
+    "sha256": "ec904b5e358426543ab14fdc5bca203f4c115351e2c8f5fe43e5ac23c96835b4"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\D_pair_Record114_D__Record114_D_126.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/D_pair_Record114_D__Record114_D_126.jpg",
+    "sha256": "16462ad7ca318aad0118cf27e6304f68e18e06f7c501c73a4403e30be3f04045"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\D_pair_Record427_D__Record427_D_26.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/D_pair_Record427_D__Record427_D_26.jpg",
+    "sha256": "47035994116fe029b44574f6e5bce72833e4d709670a49d3ecbf2bec3e4b235c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\N_pair_Record020_N__Record020_N_Record020_N_042442.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/N_pair_Record020_N__Record020_N_Record020_N_042442.jpg",
+    "sha256": "4f7dfe126ac106bdd700cdc72ec80319ed1b23213e1bd77118dafda19e1d22b9"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\N_pair_Record020_N__Record020_N_Record020_N_042527.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/N_pair_Record020_N__Record020_N_Record020_N_042527.jpg",
+    "sha256": "46a78b8b9439754aec100c429a9f6fb962298345ad0806b50bde61bd1f26295c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\N_pair_Record031_N__Record031_N_Record031_N_054948.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/N_pair_Record031_N__Record031_N_Record031_N_054948.jpg",
+    "sha256": "f7f459e3af7e06cf55aab66887fc3686b80202a2ae10dd05d91f9411e4cd9daa"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\N_pair_Record100_N__Record100_N_77.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/N_pair_Record100_N__Record100_N_77.jpg",
+    "sha256": "639974dd8a1dc503d86fd2da5b886011af3a9bc0c210f371415bc434f448c507"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\R_pair_Record204_R__Record204_R_147.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/R_pair_Record204_R__Record204_R_147.jpg",
+    "sha256": "bce90dc6c87f7caf6b5f9ef912aec5b5a406c2ac9c48610cc79170808a00f78a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\R_pair_Record438_R__Record438_R_144.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/R_pair_Record438_R__Record438_R_144.jpg",
+    "sha256": "ae2c2bf77dcfe0d326f2373349df4103c52ce9c988ccb5d77d22a74ea330040b"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\R_pair_Record438_R__Record438_R_325.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/R_pair_Record438_R__Record438_R_325.jpg",
+    "sha256": "3151b1b24757b6514f920836d35bd8105687a9c1a0d91c6cc82b8c0a86fe6c03"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pairs\\R_pair_Record438_R__Record438_R_889.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pairs/R_pair_Record438_R__Record438_R_889.jpg",
+    "sha256": "48072268b184d422a6f076d7f3693706c9362b4dc3efd005a94cc7c51543c84a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\A_pred_Record105_A__Record105_A_18.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/A_pred_Record105_A__Record105_A_18.jpg",
+    "sha256": "1d05ce3c3a46a94377f4bf664c2337586970cd54207281d6fccca5b762b1afa5"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\A_pred_Record105_A__Record105_A_60.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/A_pred_Record105_A__Record105_A_60.jpg",
+    "sha256": "f9cb3dbcb08b7f549538c7964c416e1b51e0e3a4081c42d4b75e9eab784d2cf4"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\A_pred_Record105_A__Record105_A_64.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/A_pred_Record105_A__Record105_A_64.jpg",
+    "sha256": "d6336a49bef1b56b0a644337b49e2c60fecab1c189238dbf1f50dd644d6fc1cb"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\A_pred_Record415_A__Record415_A_863.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/A_pred_Record415_A__Record415_A_863.jpg",
+    "sha256": "f54f5775041d95367ff6194be795a7a4296b9861ad49d9b6ec0c7825e8f5c715"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\D_pred_Record006_D__Record006_D_75.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/D_pred_Record006_D__Record006_D_75.jpg",
+    "sha256": "42e10cc2807684a69b53b5655a13f6e471c1091620999801c92ab2a1f894db0d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\D_pred_Record024_D__Record024_D_Record024_D_046513.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/D_pred_Record024_D__Record024_D_Record024_D_046513.jpg",
+    "sha256": "0f2226124d001e97cae6e5b4d1ca147f5e5876ff1603b105f73679a56c9a0532"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\D_pred_Record114_D__Record114_D_126.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/D_pred_Record114_D__Record114_D_126.jpg",
+    "sha256": "61f6b0fdf0f1927b652906e645d68c6c3d4b79516d02ab96c27172ba08751ed0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\D_pred_Record427_D__Record427_D_26.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/D_pred_Record427_D__Record427_D_26.jpg",
+    "sha256": "9c6dcaac67d17c16b347535ed3c0515c32723c27d490090e0dd4e1de7492dbdb"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\N_pred_Record020_N__Record020_N_Record020_N_042442.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/N_pred_Record020_N__Record020_N_Record020_N_042442.jpg",
+    "sha256": "7315e15dca63be6d3662f5d0daab9901fae810bd5b5a73b5ea083c5976261fe8"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\N_pred_Record020_N__Record020_N_Record020_N_042527.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/N_pred_Record020_N__Record020_N_Record020_N_042527.jpg",
+    "sha256": "aeeff97be6e6c31461df66a84bda7506e553e02ec03b62deb4b824dd25f14c23"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\N_pred_Record031_N__Record031_N_Record031_N_054948.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/N_pred_Record031_N__Record031_N_Record031_N_054948.jpg",
+    "sha256": "69d627704b123dc08a505302e093ec2f70a96b03ea9241581ac171e69b427977"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\N_pred_Record100_N__Record100_N_77.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/N_pred_Record100_N__Record100_N_77.jpg",
+    "sha256": "378f23ab55cc2901f91283a23f248d3b2b2ccc6e76daf1cdc7beb8b13ffa48f3"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\R_pred_Record204_R__Record204_R_147.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/R_pred_Record204_R__Record204_R_147.jpg",
+    "sha256": "cea37a97fb9c9f5af745b6102a61a5bdf644c6da68fbf7b30f49f927bf6cb351"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\R_pred_Record438_R__Record438_R_144.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/R_pred_Record438_R__Record438_R_144.jpg",
+    "sha256": "54a8a03672351116c37eb21970714c59d72e49b8eedbd277f2ba8df55d397006"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\R_pred_Record438_R__Record438_R_325.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/R_pred_Record438_R__Record438_R_325.jpg",
+    "sha256": "3b11885a36e8db4a3f4b86891afc9e8cb9b8a419445ea33b6d522ce6d8013040"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run8\\thesis figures\\demo_pred_clean\\R_pred_Record438_R__Record438_R_889.jpg",
+    "destination": "archive/experiment-results/run8/thesis figures/demo_pred_clean/R_pred_Record438_R__Record438_R_889.jpg",
+    "sha256": "f88ca41032016e055c63abd33b85dbaa8e51645aefca8fd8e70e5d3e456f2a78"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7\\args.yaml",
+    "destination": "archive/experiment-results/run7/run7/args.yaml",
+    "sha256": "21e5c1f57b9f19b6dd223b755eed1371a07f2a107731fe41d09ed35be666482e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7\\labels.jpg",
+    "destination": "archive/experiment-results/run7/run7/labels.jpg",
+    "sha256": "49e1f106390fd60fe449a29c473bd655e48bc829d039650f4e5bd5bfeb081dd9"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7\\results.csv",
+    "destination": "archive/experiment-results/run7/run7/results.csv",
+    "sha256": "424f012fb45c69d2976713c8b099718880bb1f75119f3f8c0fe2274abf71381d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7\\results.png",
+    "destination": "archive/experiment-results/run7/run7/results.png",
+    "sha256": "115f53d06d559e4605e120579291400ccf32b075f8abc24036465e76f0f2dac3"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7\\train_batch0.jpg",
+    "destination": "archive/experiment-results/run7/run7/train_batch0.jpg",
+    "sha256": "bde3c26ba402e61187fb8463860cc5ef0dc4edd63aa56637b2b5fe5041e61146"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7\\train_batch1.jpg",
+    "destination": "archive/experiment-results/run7/run7/train_batch1.jpg",
+    "sha256": "88fcd32530572173e977ce4daa55d56d2238505ff318a051c16d27eebb5e2917"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7\\train_batch2.jpg",
+    "destination": "archive/experiment-results/run7/run7/train_batch2.jpg",
+    "sha256": "039cd5051364db5b76309001864b0d1ba996efc19742e88644a8bbf129e596f7"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record003_D__Record003_D_207.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record003_D__Record003_D_207.jpg",
+    "sha256": "d16d2b936f1566fe27b1468542c1f79abf0423973680bb69231b4bde3a8e49cb"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record005_D__Record005_D_131.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record005_D__Record005_D_131.jpg",
+    "sha256": "d799777ce5ab52ab5f3b8532ec0d68bf8ece98851c85d68be0c36895ca1a6a36"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record005_D__Record005_D_34.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record005_D__Record005_D_34.jpg",
+    "sha256": "3b501cd4c40d1ccf674fd56ed871b86cf740cb079af22dc8ab19639d2abf80dd"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record006_D__Record006_D_83.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record006_D__Record006_D_83.jpg",
+    "sha256": "2f73dce75ae52016b0a60f9e78f1fb0124ac34b7a09bbb08310756e3e26a232f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record024_D__Record024_D_Record024_D_047405.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record024_D__Record024_D_Record024_D_047405.jpg",
+    "sha256": "4551693bb97b604101fd3094a8fe06a3a459d49f7d0cb694bfbea8fdb236d0f2"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record031_N__Record031_N_Record031_N_055347.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record031_N__Record031_N_Record031_N_055347.jpg",
+    "sha256": "d0ce241913f062b1b427d7e13565ea55e5cca1dbb538cc9c2973f295b8f91713"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record033_N__Record033_N_lecord033_N_056271.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record033_N__Record033_N_lecord033_N_056271.jpg",
+    "sha256": "cfc8edc94ff0c47411e154086476273715ac52505e29708ee399ad262ff70230"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record036_D__Record036_D_060899.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record036_D__Record036_D_060899.jpg",
+    "sha256": "ef5f24e1d29fb21b3490d774c95bb9cfff64feea956fe4bd59bc10505eba9316"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record054_D__Record054_D_087270.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record054_D__Record054_D_087270.jpg",
+    "sha256": "08fac1169a20406b8d775a39b948d9ea8a7ce2d7c61a0c13427386023b1adb00"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record100_N__Record100_N_72.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record100_N__Record100_N_72.jpg",
+    "sha256": "54d305c2219f946d21608f6e679333081d9d45da9e660d9834ad2922414a7b1c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record100_N__Record100_N_81.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record100_N__Record100_N_81.jpg",
+    "sha256": "6ca9d2c00c98d6fa73ecb29be5e5a8094036f136cc4e67e9cf5780429dd73e01"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record101_N__Record101_N_56.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record101_N__Record101_N_56.jpg",
+    "sha256": "756561ccedcc96002e088f6a895bb62074152bc55d02058823faed7e31dad4cd"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record105_A__Record105_A_18.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record105_A__Record105_A_18.jpg",
+    "sha256": "3fba059db2e1314f09d0f9f8e2e5eee73a56f1866ca2f265d5a4aec915208c66"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record109_D__Record109_D_81.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record109_D__Record109_D_81.jpg",
+    "sha256": "a5bb1c7fb35733ae675761f8f33742cf149f28f960a005620f06f46b57c8c6eb"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record111_D__Record111_D_14.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record111_D__Record111_D_14.jpg",
+    "sha256": "882bb9e021bfb4f66ac53c3917e5a51eb7205f3616ec6938aeea9a15652bd71d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record112_D__Record112_D_63.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record112_D__Record112_D_63.jpg",
+    "sha256": "e70aa78b585e8fe4069102f80ec70a5deaae6881cd61ac6d7b410cf23c65499d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record114_D__Record114_D_129.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record114_D__Record114_D_129.jpg",
+    "sha256": "57b06499cf460625c7dcaace971c22b7491708deebbf3f63a2b1eb5eb355eb67"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record114_D__Record114_D_8.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record114_D__Record114_D_8.jpg",
+    "sha256": "113d7c074f5b15c623a2b402c8ee1047060d6de65b93439c71fdfe533a317b88"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record115_D__Record115_D_22.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record115_D__Record115_D_22.jpg",
+    "sha256": "b2c0db669c7ad9ccf4b7db98f9bd0f5b547fb7fb4f2ead6d3d85e1b728711558"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record117_D__Record117_D_112.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record117_D__Record117_D_112.jpg",
+    "sha256": "e8c42855cb4225487ce6254742d2514923bf1f3fd6b5e955c6e24d20946629e0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record117_D__Record117_D_114.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record117_D__Record117_D_114.jpg",
+    "sha256": "e5ce3f59eed7cf4c2e62ea6d42d2d8edba8b13c0bc53b110405f4d2924ebee28"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record128_D__Record128_D_106.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record128_D__Record128_D_106.jpg",
+    "sha256": "0241d9daaf1eb2814175c255b79f38128ac3179db05f72a114a6c92f6b76963e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record128_D__Record128_D_16.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record128_D__Record128_D_16.jpg",
+    "sha256": "f047905098a5803dd68b3354a4b964c21c16b780d8be52fe0c0b8029cbd7ceb8"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record130_D__Record130_D_5.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record130_D__Record130_D_5.jpg",
+    "sha256": "665d0b44626f2575b5e07be4e75d318b9d925f132355ac6164edd62308615745"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record131_D__Record131_D_74.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record131_D__Record131_D_74.jpg",
+    "sha256": "02f9559d6c8b76ff08270457ece3a2fc5aae125de32ef1155297a2122e3551ff"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record133_D__Record133_D_11.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record133_D__Record133_D_11.jpg",
+    "sha256": "87316f69adfa54f31f7ceb1933f135d3b53a102fdef7764cb1a5b31fd9702f5e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record134_D__Record134_D_44.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record134_D__Record134_D_44.jpg",
+    "sha256": "784ea892c4c1fd40562cd411fab777d1c7a3b12e3d25eb9f2ad6ecb9dc83aadd"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record309_D__Record309_D_264.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record309_D__Record309_D_264.jpg",
+    "sha256": "1b3530b65c9e58816e331129794416778c920d6f6b04389040547a82d1257997"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record413_D__Record413_D_291.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record413_D__Record413_D_291.jpg",
+    "sha256": "c6496414a7856c55f0065b20051ba46c861e8756c152afb938bfe65b6f541076"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record425_D__Record425_D_280.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record425_D__Record425_D_280.jpg",
+    "sha256": "099f9a96bce71baca7e285496b41162160f20a080ed16bc1911259c1702d87d2"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record425_D__Record425_D_836.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record425_D__Record425_D_836.jpg",
+    "sha256": "f88b424e5c1929e7876c82081c3759604b452f1a01098a3f8b2a79f461cdcaa2"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record427_D__Record427_D_27.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record427_D__Record427_D_27.jpg",
+    "sha256": "6c90e82ad5c773a6a01198719c1831e277aa3a69aec3ac8e2be44acb1e39130a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record428_D__Record428_D_387.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record428_D__Record428_D_387.jpg",
+    "sha256": "54d0a6eeb9ae8d5bda10bbb328e2b1d7798bcfbfb743c7b3fa998c33912fb5ec"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record428_D__Record428_D_690.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record428_D__Record428_D_690.jpg",
+    "sha256": "759c8c8a4ad87d2e4259885fd29d31be5fabc9a5ef1117a4733e68b30c31dbaf"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record435_R__Record435_R_481.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record435_R__Record435_R_481.jpg",
+    "sha256": "47073ea7cc3815abe9cce3438b4d2d9e674ce2b3aaf0ba7929450cb57e386418"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record435_R__Record435_R_854.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record435_R__Record435_R_854.jpg",
+    "sha256": "4d775f5a6382be5a19a4f779cc80844dd89b931b2c110ff5b5b0f924829a6c5d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record438_R__Record438_R_730.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record438_R__Record438_R_730.jpg",
+    "sha256": "2a8e920fea05577b4057b8207c8c36080c5082759a90234810b13fef8d650848"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record438_R__Record438_R_864.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record438_R__Record438_R_864.jpg",
+    "sha256": "5bd991fb0a03414ea98a9b515e7aa503880af15faae5e5171ba551cbe9040781"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record510_D__Record510_D_276.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record510_D__Record510_D_276.jpg",
+    "sha256": "db93a21ee482047ca17c3fbecf143d63d043d4291eaee6eabec44c5baf968a0b"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\Record511_D__Record511_D_105.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/Record511_D__Record511_D_105.jpg",
+    "sha256": "5856cff4e37f4cca8ee0c19b6c6c9b32e50dd916f9f0136d3736bd7e35ff78ff"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_demo\\_contact_sheet.jpg",
+    "destination": "archive/experiment-results/run7/run7_demo/_contact_sheet.jpg",
+    "sha256": "44d495d8c27e3e84c1f61a1b99531761306c0fc6bdb629a10ade6fa8465c72e7"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_test\\BoxF1_curve.png",
+    "destination": "archive/experiment-results/run7/run7_eval_test/BoxF1_curve.png",
+    "sha256": "2a5feb9b078e7c443bc4240afd54819e507de1c130ef0b8e1d1fbb8fbdebe12b"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_test\\BoxPR_curve.png",
+    "destination": "archive/experiment-results/run7/run7_eval_test/BoxPR_curve.png",
+    "sha256": "bdc601f1ef3b9346660cf9fb4b569ca3311afbdbbe102f9c2dc050eaaa0413a4"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_test\\BoxP_curve.png",
+    "destination": "archive/experiment-results/run7/run7_eval_test/BoxP_curve.png",
+    "sha256": "953de932d1810cf64b83f9cef161977fe02d41054890baf74c11c02f624b05b6"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_test\\BoxR_curve.png",
+    "destination": "archive/experiment-results/run7/run7_eval_test/BoxR_curve.png",
+    "sha256": "43bf64b6ab68f4bae4285ef59afd84908dfcd3405b7821af00c1b712d0bb92cc"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_test\\confusion_matrix.png",
+    "destination": "archive/experiment-results/run7/run7_eval_test/confusion_matrix.png",
+    "sha256": "683cdc17590252bc22543463e0cfddb75ddb4525d81a772963896d7eb4fc9d09"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_test\\confusion_matrix_normalized.png",
+    "destination": "archive/experiment-results/run7/run7_eval_test/confusion_matrix_normalized.png",
+    "sha256": "d517e8a53432b1bbeedfb741fef44ab54b0f1451763d3d7c47451b5c163caf6a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_test\\val_batch0_labels.jpg",
+    "destination": "archive/experiment-results/run7/run7_eval_test/val_batch0_labels.jpg",
+    "sha256": "44c86f6067d9867bd8211a4d3dcd5f2c3ae0ab22b0297611f7d221d7a208b174"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_test\\val_batch0_pred.jpg",
+    "destination": "archive/experiment-results/run7/run7_eval_test/val_batch0_pred.jpg",
+    "sha256": "4263580728741928bce964856df4bdca7df3eb35af590948be3561c515510abd"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_test\\val_batch1_labels.jpg",
+    "destination": "archive/experiment-results/run7/run7_eval_test/val_batch1_labels.jpg",
+    "sha256": "771d703e8a5dffd8c2f74d8d10c666ccbe199453923be42211835040e0ee992e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_test\\val_batch1_pred.jpg",
+    "destination": "archive/experiment-results/run7/run7_eval_test/val_batch1_pred.jpg",
+    "sha256": "ed0b18976b08b44621d752369c21e0ab6308ea9f9762e3f81dd26a03e68af8ee"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_test\\val_batch2_labels.jpg",
+    "destination": "archive/experiment-results/run7/run7_eval_test/val_batch2_labels.jpg",
+    "sha256": "b60eb47caa340eca2c237b110d00f1dee3f979259636fa998128eb385391d9fe"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_test\\val_batch2_pred.jpg",
+    "destination": "archive/experiment-results/run7/run7_eval_test/val_batch2_pred.jpg",
+    "sha256": "8379d1db9c2698224f2eb6bb6f9b4b2395fe361669402e58ddeed08c9d357c54"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_val\\BoxF1_curve.png",
+    "destination": "archive/experiment-results/run7/run7_eval_val/BoxF1_curve.png",
+    "sha256": "d07ff646450228fa3749b5f71053036a4910642130c339388e3f5377e1bf07c0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_val\\BoxPR_curve.png",
+    "destination": "archive/experiment-results/run7/run7_eval_val/BoxPR_curve.png",
+    "sha256": "afa1f0c2b5edeb9e86a582bfc8df36d6a9e7d07557d7f205f4b1b66bc2484a16"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_val\\BoxP_curve.png",
+    "destination": "archive/experiment-results/run7/run7_eval_val/BoxP_curve.png",
+    "sha256": "8c97c27d53692ff3a7fb7a888d8b4a579085b2898465cbcc7a708764306b0633"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_val\\BoxR_curve.png",
+    "destination": "archive/experiment-results/run7/run7_eval_val/BoxR_curve.png",
+    "sha256": "34fa07335166b74facde1669e850ab606d04bc816f1a182b715c315aa053c8bc"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_val\\confusion_matrix.png",
+    "destination": "archive/experiment-results/run7/run7_eval_val/confusion_matrix.png",
+    "sha256": "219da6359b0182cd928fe7c86da4ebfc19a99823aa1b27a7382e7f39ea1eb8ca"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_val\\confusion_matrix_normalized.png",
+    "destination": "archive/experiment-results/run7/run7_eval_val/confusion_matrix_normalized.png",
+    "sha256": "846241a1b91427099e2e6308b91e6b370212f816dcb5011baff0d23362a13f08"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_val\\val_batch0_labels.jpg",
+    "destination": "archive/experiment-results/run7/run7_eval_val/val_batch0_labels.jpg",
+    "sha256": "20e4f08105c9fdc347fc32c5b96cd406ae7b7498e02cddf8fbf16bfc5ddf38a2"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_val\\val_batch0_pred.jpg",
+    "destination": "archive/experiment-results/run7/run7_eval_val/val_batch0_pred.jpg",
+    "sha256": "e8b932aaea8cea1c17cc00c684adbafd2f381f7bcc5cbd98716848d5e45c61fe"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_val\\val_batch1_labels.jpg",
+    "destination": "archive/experiment-results/run7/run7_eval_val/val_batch1_labels.jpg",
+    "sha256": "e84248fe724f538efc7e13854a7ed9969b153c7455c488dd8aa1b9810cbee6a8"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_val\\val_batch1_pred.jpg",
+    "destination": "archive/experiment-results/run7/run7_eval_val/val_batch1_pred.jpg",
+    "sha256": "5085f37261c5f5a5579d440fdff18f12a1ed7f35615bfa35c7f4f529a8bc84c5"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_val\\val_batch2_labels.jpg",
+    "destination": "archive/experiment-results/run7/run7_eval_val/val_batch2_labels.jpg",
+    "sha256": "a1537891cb48c06d62576aee42353520e8e083f7f985726d57ce8594e5d855f2"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_eval_val\\val_batch2_pred.jpg",
+    "destination": "archive/experiment-results/run7/run7_eval_val/val_batch2_pred.jpg",
+    "sha256": "89845e6f063a3bcdd22c8fcfa687b99c52a01196bb80699a0b4198f77b666f0d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\args.yaml",
+    "destination": "archive/experiment-results/run7/run7_ft/args.yaml",
+    "sha256": "9c508bbdcb90c4a76327fafa7c7b5a7ce7def9059b9b921bed4934050efefdc2"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\BoxF1_curve.png",
+    "destination": "archive/experiment-results/run7/run7_ft/BoxF1_curve.png",
+    "sha256": "39dc4ec7e2f805bec2166fadd0b39c31b8fd7a6fa203343edb77782f89b92795"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\BoxPR_curve.png",
+    "destination": "archive/experiment-results/run7/run7_ft/BoxPR_curve.png",
+    "sha256": "d1966c4dba2fef1e059f86ace8db43982341712d409db85f12698ccc7306e219"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\BoxP_curve.png",
+    "destination": "archive/experiment-results/run7/run7_ft/BoxP_curve.png",
+    "sha256": "4931a9a7208dbd9be7df1d08a170d88f806fddeabdced2c2f34a004fb18a3bc8"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\BoxR_curve.png",
+    "destination": "archive/experiment-results/run7/run7_ft/BoxR_curve.png",
+    "sha256": "cc59ce4c6fe7efec5b41a94810e0b8bb3da40a8062592616a3657ab43467f0b0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\confusion_matrix.png",
+    "destination": "archive/experiment-results/run7/run7_ft/confusion_matrix.png",
+    "sha256": "79a25775e05c91bdafa661b2151c937a748728bd14341ea3c55efe4a26f8e72a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\confusion_matrix_normalized.png",
+    "destination": "archive/experiment-results/run7/run7_ft/confusion_matrix_normalized.png",
+    "sha256": "e253cced0abf99e0e79ccd1721b39f621e9253355c979cc0af0fa8df9ce9d7af"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\labels.jpg",
+    "destination": "archive/experiment-results/run7/run7_ft/labels.jpg",
+    "sha256": "49e1f106390fd60fe449a29c473bd655e48bc829d039650f4e5bd5bfeb081dd9"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\results.csv",
+    "destination": "archive/experiment-results/run7/run7_ft/results.csv",
+    "sha256": "b935eb08aee59d9c17cda26f1bd19033b3f5043b195d3f7d73c2dd4ccef6470c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\results.png",
+    "destination": "archive/experiment-results/run7/run7_ft/results.png",
+    "sha256": "40c56084683a22a985881b6259e85fda17ab6290bd40a0e7cbdc44bfa4c45fe7"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\train_batch0.jpg",
+    "destination": "archive/experiment-results/run7/run7_ft/train_batch0.jpg",
+    "sha256": "5c93642adac2fb04128d81aff21a30424ed8947f27f45a08ae0fef576f8567c2"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\train_batch1.jpg",
+    "destination": "archive/experiment-results/run7/run7_ft/train_batch1.jpg",
+    "sha256": "b62433c4f0646c1ec8ce96ed624ff24aef8b0b81fde95895bdbd6ab8a0a42434"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\train_batch2.jpg",
+    "destination": "archive/experiment-results/run7/run7_ft/train_batch2.jpg",
+    "sha256": "379ee5d6a13df118f696e1de64af1bf5bd8ab6a72934bd75e47a7ffcdeeedd4a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\val_batch0_labels.jpg",
+    "destination": "archive/experiment-results/run7/run7_ft/val_batch0_labels.jpg",
+    "sha256": "7046ec92d2443ee52d927390ea3644763d521798b446a9debea61f8789d26b39"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\val_batch0_pred.jpg",
+    "destination": "archive/experiment-results/run7/run7_ft/val_batch0_pred.jpg",
+    "sha256": "1fcd55008cd663267df0023c2b8edeffe381a7b5b23eb1450602f747ceed8b27"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\val_batch1_labels.jpg",
+    "destination": "archive/experiment-results/run7/run7_ft/val_batch1_labels.jpg",
+    "sha256": "679909ddde1d8aaf16f7d24bccf069481d5aab9ef4a3e4d05c0b5250c97538c9"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\val_batch1_pred.jpg",
+    "destination": "archive/experiment-results/run7/run7_ft/val_batch1_pred.jpg",
+    "sha256": "94af0175959bfac006b88be7ffc561ff35820bb63d21f58523065a6eebaf2da1"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\val_batch2_labels.jpg",
+    "destination": "archive/experiment-results/run7/run7_ft/val_batch2_labels.jpg",
+    "sha256": "63cd3c5270219aba39b522f565a37d52652afdd70c9a4cedb80f9a33f4aa0b3a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run7\\run7_ft\\val_batch2_pred.jpg",
+    "destination": "archive/experiment-results/run7/run7_ft/val_batch2_pred.jpg",
+    "sha256": "1e89a3d11508a3a4db818b3974da1e5923d1e987a050e0a5388764223122219c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image0.jpg",
+    "destination": "archive/experiment-results/run5/demo/image0.jpg",
+    "sha256": "d7ec101d945ab62855a174aee44e7e50c3a46132b1edbdc261cd29b2103e284c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image1.jpg",
+    "destination": "archive/experiment-results/run5/demo/image1.jpg",
+    "sha256": "abfe46b5153edb38bcc733ebb271f15bd427899d78b3dae83cba662861a555a6"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image10.jpg",
+    "destination": "archive/experiment-results/run5/demo/image10.jpg",
+    "sha256": "6f81a18d857b7ca0d57149a2f50964e777a524eab4a13dd0a88577dd2b2957ca"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image11.jpg",
+    "destination": "archive/experiment-results/run5/demo/image11.jpg",
+    "sha256": "5d0081215b497a8874a9358c0261c79e60058a2950a12b70ff4b874ff9ec97ed"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image12.jpg",
+    "destination": "archive/experiment-results/run5/demo/image12.jpg",
+    "sha256": "6ef18abc8829a2885bcd9f8e02b478f2a148ad0f3f93a291c86f9063467e7256"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image13.jpg",
+    "destination": "archive/experiment-results/run5/demo/image13.jpg",
+    "sha256": "fd4fd3991642275a65fc3269d720bda8ea64ed98e7c351bb05fa5d8d59224153"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image14.jpg",
+    "destination": "archive/experiment-results/run5/demo/image14.jpg",
+    "sha256": "3c7379f7fa40a174f0a7b8e89dd1abd01e4810614ec854d58555746dd47a6269"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image15.jpg",
+    "destination": "archive/experiment-results/run5/demo/image15.jpg",
+    "sha256": "9a81dd59c9b591ee526d7f7767792528230494dab040054a57c2b122b96c1425"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image2.jpg",
+    "destination": "archive/experiment-results/run5/demo/image2.jpg",
+    "sha256": "c82cd7284ae3f2c2a18009f7c2a95e17ea5099d94a74d0c5a861ccecf3f066db"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image3.jpg",
+    "destination": "archive/experiment-results/run5/demo/image3.jpg",
+    "sha256": "25093ce8c979c224011a67dc9ab94a14868e963dc550d33aac3e6c09db9b884f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image4.jpg",
+    "destination": "archive/experiment-results/run5/demo/image4.jpg",
+    "sha256": "f558a2bab5da586c61f65211bbaae2fa467994329e3b3b90c1d2c9eed09bce5a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image5.jpg",
+    "destination": "archive/experiment-results/run5/demo/image5.jpg",
+    "sha256": "39970bdc673444250efbb8be9adae8b5f4630b6f9d710baef1f1cebd70b0aec3"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image6.jpg",
+    "destination": "archive/experiment-results/run5/demo/image6.jpg",
+    "sha256": "ad4896c7287afa3634f0458958a83115a946b2d541b529f279fd8d675369a54c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image7.jpg",
+    "destination": "archive/experiment-results/run5/demo/image7.jpg",
+    "sha256": "015ecf32900d8567826d89ffd7dd495f07f37884ca520352030774eaf9f37e02"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image8.jpg",
+    "destination": "archive/experiment-results/run5/demo/image8.jpg",
+    "sha256": "e7abb5ee6e8c368c4a59d088519932fcbb142f5219059a64da669fa6ed666b48"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\demo\\image9.jpg",
+    "destination": "archive/experiment-results/run5/demo/image9.jpg",
+    "sha256": "680b8e7c65dd08e140e33fcf352a94fb4c90856011886d2e0ac9db1ac2768dfc"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_test\\BoxF1_curve.png",
+    "destination": "archive/experiment-results/run5/run5_test/BoxF1_curve.png",
+    "sha256": "c5da5074fd974f4c1699a1b5f4cb74800be80993c0cf2e0a6577c9ce333b6dcd"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_test\\BoxPR_curve.png",
+    "destination": "archive/experiment-results/run5/run5_test/BoxPR_curve.png",
+    "sha256": "d32217c2ae90513514532c9ae62b7178ed220c1a11dc63743e36c14fa5e263d3"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_test\\BoxP_curve.png",
+    "destination": "archive/experiment-results/run5/run5_test/BoxP_curve.png",
+    "sha256": "c341b3f187c18537cd6a8122bfe60a877324e8c64414fd24fb9e0f4916d33211"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_test\\BoxR_curve.png",
+    "destination": "archive/experiment-results/run5/run5_test/BoxR_curve.png",
+    "sha256": "ea87b0880d44de96c892e5a3858332618b2744101cdc39050d2a05e9aae460c9"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_test\\confusion_matrix.png",
+    "destination": "archive/experiment-results/run5/run5_test/confusion_matrix.png",
+    "sha256": "c93ac41f37351179eb109900814515a0520059545a4d36f858aeae4886cfa39e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_test\\confusion_matrix_normalized.png",
+    "destination": "archive/experiment-results/run5/run5_test/confusion_matrix_normalized.png",
+    "sha256": "c43031a300ea6d06bcee7ab349224d09c6adde863650277fbedcdd70843da28c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_test\\val_batch0_labels.jpg",
+    "destination": "archive/experiment-results/run5/run5_test/val_batch0_labels.jpg",
+    "sha256": "e8b31f280127f4f77f0451e6363bb4040a81e68456dcefa20c935534316dd622"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_test\\val_batch0_pred.jpg",
+    "destination": "archive/experiment-results/run5/run5_test/val_batch0_pred.jpg",
+    "sha256": "2c4d227f6c9b9c24c93f11d262da87a8b61df8d60b4b7e037120f92d240b26c9"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_test\\val_batch1_labels.jpg",
+    "destination": "archive/experiment-results/run5/run5_test/val_batch1_labels.jpg",
+    "sha256": "915e7b6fab7f7ae30f20d37e9af31fb3878c8ddc395b7bbef3fe5e21e2711578"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_test\\val_batch1_pred.jpg",
+    "destination": "archive/experiment-results/run5/run5_test/val_batch1_pred.jpg",
+    "sha256": "6c5a2b9feda5a762af09e6bffd5919751c7fe621ed62c45176411ed6a8650786"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_test\\val_batch2_labels.jpg",
+    "destination": "archive/experiment-results/run5/run5_test/val_batch2_labels.jpg",
+    "sha256": "770d7e3f550ec5e191a466f58782e3dc9c116fd6d2f72927dc3539483120444c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_test\\val_batch2_pred.jpg",
+    "destination": "archive/experiment-results/run5/run5_test/val_batch2_pred.jpg",
+    "sha256": "bad6c368215f59da27c7eaa2ecac4dbea887e8c6b7b4678d95948b903d647524"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_val\\BoxF1_curve.png",
+    "destination": "archive/experiment-results/run5/run5_val/BoxF1_curve.png",
+    "sha256": "b7edaee7a89d7bb63037d5e2e32aab9f863abf233119c2f25914efeb3d94b481"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_val\\BoxPR_curve.png",
+    "destination": "archive/experiment-results/run5/run5_val/BoxPR_curve.png",
+    "sha256": "57365dd89d4b366bcdfbaf843ee175388f9e4b6643a5c3790691c7bf1e4940df"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_val\\BoxP_curve.png",
+    "destination": "archive/experiment-results/run5/run5_val/BoxP_curve.png",
+    "sha256": "af184b3600f0b16a6727d4762881a9bd872007b3b4c87ff074bccc2fc750bc7d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_val\\BoxR_curve.png",
+    "destination": "archive/experiment-results/run5/run5_val/BoxR_curve.png",
+    "sha256": "09d9533df1c3f3963bfde19d430cbb74b893d33fc981f603cb380de69a73922b"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_val\\confusion_matrix.png",
+    "destination": "archive/experiment-results/run5/run5_val/confusion_matrix.png",
+    "sha256": "4d3068391573e26e6ba3efe4531c7cb631c5b576106845bbf56f8f202368e569"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_val\\confusion_matrix_normalized.png",
+    "destination": "archive/experiment-results/run5/run5_val/confusion_matrix_normalized.png",
+    "sha256": "3ab9a91db62f72284f714089816f590a0344a3fe78b9da60c48b951461330883"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_val\\val_batch0_labels.jpg",
+    "destination": "archive/experiment-results/run5/run5_val/val_batch0_labels.jpg",
+    "sha256": "2464219b44913f71291e16e6876e5f8abf151664bb3dc2cc1cf1ae7c2d7da9f6"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_val\\val_batch0_pred.jpg",
+    "destination": "archive/experiment-results/run5/run5_val/val_batch0_pred.jpg",
+    "sha256": "06083d0200d406fc807dd25fc40dafe13040c0d3703ccbc9bcc202e1f9969c01"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_val\\val_batch1_labels.jpg",
+    "destination": "archive/experiment-results/run5/run5_val/val_batch1_labels.jpg",
+    "sha256": "473c6b3c818b507b54d8c1d9951d2555e8b12f03b5b1f587d8d5a672bc6ccb25"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_val\\val_batch1_pred.jpg",
+    "destination": "archive/experiment-results/run5/run5_val/val_batch1_pred.jpg",
+    "sha256": "e5886df6bbcfb19a9d5c61a7162f5e69b811daa7de7ce32bbc901dc7764d12b4"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_val\\val_batch2_labels.jpg",
+    "destination": "archive/experiment-results/run5/run5_val/val_batch2_labels.jpg",
+    "sha256": "5ad2ca8deb99c5a0b00d71e8074e352acc814a80c15b48a6610602d53e334c78"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run5\\run5_val\\val_batch2_pred.jpg",
+    "destination": "archive/experiment-results/run5/run5_val/val_batch2_pred.jpg",
+    "sha256": "e8a370ad0a5776b7c3abe23f307f84af135d569349a99242d1202b7abef33247"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\args.yaml",
+    "destination": "archive/experiment-results/run4/run4/args.yaml",
+    "sha256": "180b0a44ac0f933af54a38333880071780bcf242dc79122d1c58256a8dc7656b"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\labels.jpg",
+    "destination": "archive/experiment-results/run4/run4/labels.jpg",
+    "sha256": "e17548d15b460d94b5a630b33693a976939fd2e3ccc1405a312028431701a5c3"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\results.csv",
+    "destination": "archive/experiment-results/run4/run4/results.csv",
+    "sha256": "d4fbdde3101c5dd07c90f210c43dd18855832c33b15ba29b2b8aeb53eacce561"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\train_batch0.jpg",
+    "destination": "archive/experiment-results/run4/run4/train_batch0.jpg",
+    "sha256": "5152476d1113f6685a01896d660927de5da4504f346ff64e8d71185e0f370beb"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\train_batch1.jpg",
+    "destination": "archive/experiment-results/run4/run4/train_batch1.jpg",
+    "sha256": "6c196cdf43892252d2bc60dcadb286aa47680d7e2b809deb0d4ab9efa7f22184"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\train_batch2.jpg",
+    "destination": "archive/experiment-results/run4/run4/train_batch2.jpg",
+    "sha256": "e3184e090511f092d57b32d199531f85d9d24a3f1d06cf6dbdbfdb2d1094ee33"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test\\BoxF1_curve.png",
+    "destination": "archive/experiment-results/run4/run4_test/BoxF1_curve.png",
+    "sha256": "80323aba1cb7d3b61359b2403afbf03bef4525a5746af4cdcfe104a679bc3e68"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test\\BoxPR_curve.png",
+    "destination": "archive/experiment-results/run4/run4_test/BoxPR_curve.png",
+    "sha256": "c04db2f31265f13a72831acb7b82c6b701081ef97d94859de312e26db064d97d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test\\BoxP_curve.png",
+    "destination": "archive/experiment-results/run4/run4_test/BoxP_curve.png",
+    "sha256": "8883f9f2f45a62e85a5395c7bd9aabab2c1591dc7dc1dbdee6ebed47964451d7"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test\\BoxR_curve.png",
+    "destination": "archive/experiment-results/run4/run4_test/BoxR_curve.png",
+    "sha256": "fb5f0bbe13cdacdb6acb32fdc5125f45df899162e4033534e6327e57345866f4"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test\\confusion_matrix.png",
+    "destination": "archive/experiment-results/run4/run4_test/confusion_matrix.png",
+    "sha256": "95dff3ee1eef565d6a24eee6dbe09972658dce0b0c542193a7c14e437e6868b8"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test\\confusion_matrix_normalized.png",
+    "destination": "archive/experiment-results/run4/run4_test/confusion_matrix_normalized.png",
+    "sha256": "f29d5c1a3edd3cc13c3fc698ed6ca9a2c32fb73395aba0d922616c3e5f8c19b5"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test\\val_batch0_labels.jpg",
+    "destination": "archive/experiment-results/run4/run4_test/val_batch0_labels.jpg",
+    "sha256": "5887bddd8e627504a964dcc8274dc5023921176da5f914ced7f4bce23954d196"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test\\val_batch0_pred.jpg",
+    "destination": "archive/experiment-results/run4/run4_test/val_batch0_pred.jpg",
+    "sha256": "c5f072509790d1113173832f2db4901c5acb2dae1b9a9f0dbbfaaef7801982ac"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test\\val_batch1_labels.jpg",
+    "destination": "archive/experiment-results/run4/run4_test/val_batch1_labels.jpg",
+    "sha256": "af76d91b7c8efabc50a1627886caf2096336c4e62d1c8518c43ffd27ef6bed4f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test\\val_batch1_pred.jpg",
+    "destination": "archive/experiment-results/run4/run4_test/val_batch1_pred.jpg",
+    "sha256": "a0d5d1c73e583b6a3792b6f638052a63d222b6ac85662476680a8bf8c33ce13c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test\\val_batch2_labels.jpg",
+    "destination": "archive/experiment-results/run4/run4_test/val_batch2_labels.jpg",
+    "sha256": "6f012d88e01b25d8f13b126e423259c1d907310cf9b93b00f66e4986b9c8e4cb"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test\\val_batch2_pred.jpg",
+    "destination": "archive/experiment-results/run4/run4_test/val_batch2_pred.jpg",
+    "sha256": "1de36a52a536b3b769a0ee177330304c5005b48dffc63f0d6527bbe0282b3e3b"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test_tuned\\BoxF1_curve.png",
+    "destination": "archive/experiment-results/run4/run4_test_tuned/BoxF1_curve.png",
+    "sha256": "4805c6bebad97e9a51989dc52464fb8829ffa78e3e7e5368922d361a3bae9582"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test_tuned\\BoxPR_curve.png",
+    "destination": "archive/experiment-results/run4/run4_test_tuned/BoxPR_curve.png",
+    "sha256": "e5a4562174cd3ecf5262f6cc98cf91f6323e71fe68af447a8087d7090f7d9acf"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test_tuned\\BoxP_curve.png",
+    "destination": "archive/experiment-results/run4/run4_test_tuned/BoxP_curve.png",
+    "sha256": "008be629be300f6c6b637787807aeb0fb40fe87e1898869bdf83cab2b97eb682"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test_tuned\\BoxR_curve.png",
+    "destination": "archive/experiment-results/run4/run4_test_tuned/BoxR_curve.png",
+    "sha256": "13873e1daaef846a3e406355c2bee59c28b916d4b52563f86a0c87b9665e9690"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test_tuned\\confusion_matrix.png",
+    "destination": "archive/experiment-results/run4/run4_test_tuned/confusion_matrix.png",
+    "sha256": "d81148741d5911bf0871e9838772413470a878cf96534b8c6e28c1d8c019a88e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test_tuned\\confusion_matrix_normalized.png",
+    "destination": "archive/experiment-results/run4/run4_test_tuned/confusion_matrix_normalized.png",
+    "sha256": "ff9364d40e6553c99fa09894b2f0535812e81df18312e90178898ad37f95d076"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test_tuned\\val_batch0_labels.jpg",
+    "destination": "archive/experiment-results/run4/run4_test_tuned/val_batch0_labels.jpg",
+    "sha256": "5887bddd8e627504a964dcc8274dc5023921176da5f914ced7f4bce23954d196"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test_tuned\\val_batch0_pred.jpg",
+    "destination": "archive/experiment-results/run4/run4_test_tuned/val_batch0_pred.jpg",
+    "sha256": "c5f072509790d1113173832f2db4901c5acb2dae1b9a9f0dbbfaaef7801982ac"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test_tuned\\val_batch1_labels.jpg",
+    "destination": "archive/experiment-results/run4/run4_test_tuned/val_batch1_labels.jpg",
+    "sha256": "af76d91b7c8efabc50a1627886caf2096336c4e62d1c8518c43ffd27ef6bed4f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test_tuned\\val_batch1_pred.jpg",
+    "destination": "archive/experiment-results/run4/run4_test_tuned/val_batch1_pred.jpg",
+    "sha256": "2ea7aac4fdb72995100e4ccec9a0056f4d1c6c60042fb133551b81ab5be6d45f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test_tuned\\val_batch2_labels.jpg",
+    "destination": "archive/experiment-results/run4/run4_test_tuned/val_batch2_labels.jpg",
+    "sha256": "6f012d88e01b25d8f13b126e423259c1d907310cf9b93b00f66e4986b9c8e4cb"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_test_tuned\\val_batch2_pred.jpg",
+    "destination": "archive/experiment-results/run4/run4_test_tuned/val_batch2_pred.jpg",
+    "sha256": "edc8dfd37f8c749e133ffb5d0a1d2b8f803e6c9e8c5dbe336d40692d9900c3f8"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val\\BoxF1_curve.png",
+    "destination": "archive/experiment-results/run4/run4_val/BoxF1_curve.png",
+    "sha256": "14062733a69e053005f2a2578d702ef4549133445842a2621dc9ae3e119a8e10"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val\\BoxPR_curve.png",
+    "destination": "archive/experiment-results/run4/run4_val/BoxPR_curve.png",
+    "sha256": "5164ab81c8a44220456b58ac3584e0b06abb4bebbc47d07c939017ee933c032a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val\\BoxP_curve.png",
+    "destination": "archive/experiment-results/run4/run4_val/BoxP_curve.png",
+    "sha256": "209ce4b8ea246e0f16e0fb5269e536defca6e4f1804026404ae3115680f32de8"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val\\BoxR_curve.png",
+    "destination": "archive/experiment-results/run4/run4_val/BoxR_curve.png",
+    "sha256": "4b9b75fa91bd50a925656b07c559dc67c81ebff81fc596cd1a38942fbe4d341c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val\\confusion_matrix.png",
+    "destination": "archive/experiment-results/run4/run4_val/confusion_matrix.png",
+    "sha256": "0617d83eb0ebf04260b3cde5ac31760ed2d1016e15134e9d3f2240f15a89694c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val\\confusion_matrix_normalized.png",
+    "destination": "archive/experiment-results/run4/run4_val/confusion_matrix_normalized.png",
+    "sha256": "ae63fc1edec7f1de49a9a4ae2eef226144a9506f27de47caa400e0466b222cac"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val\\val_batch0_labels.jpg",
+    "destination": "archive/experiment-results/run4/run4_val/val_batch0_labels.jpg",
+    "sha256": "4bddaf08eb018518976e4785d500ce7df708ed493fda697454565293700faab0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val\\val_batch0_pred.jpg",
+    "destination": "archive/experiment-results/run4/run4_val/val_batch0_pred.jpg",
+    "sha256": "8ab97e4594f6e3509a223698c806422f88adfc4a3e3b6cbfc19ddb752db06ce5"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val\\val_batch1_labels.jpg",
+    "destination": "archive/experiment-results/run4/run4_val/val_batch1_labels.jpg",
+    "sha256": "3ef6ccad1e366d0fa4dd91e74b8200c7bd0368b687766bded35dec1de3a03e85"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val\\val_batch1_pred.jpg",
+    "destination": "archive/experiment-results/run4/run4_val/val_batch1_pred.jpg",
+    "sha256": "1fdbc6661ec9d9336466e0312698d0a912dadb6e2bd1637065d84b2ebf17d4c9"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val\\val_batch2_labels.jpg",
+    "destination": "archive/experiment-results/run4/run4_val/val_batch2_labels.jpg",
+    "sha256": "412dc33f7814bcc473d93e4fbab35bff34835e5d9fe95c3500168bd9368f2760"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val\\val_batch2_pred.jpg",
+    "destination": "archive/experiment-results/run4/run4_val/val_batch2_pred.jpg",
+    "sha256": "092b088a041fe2820b922b276169134bc3cc7a4282d99e0297c0e9a816dbae72"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val_tuned\\BoxF1_curve.png",
+    "destination": "archive/experiment-results/run4/run4_val_tuned/BoxF1_curve.png",
+    "sha256": "2cd20a406cb85e484403f18402c0597fcbb1c0943890120d870a37c3491202bb"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val_tuned\\BoxPR_curve.png",
+    "destination": "archive/experiment-results/run4/run4_val_tuned/BoxPR_curve.png",
+    "sha256": "efb6052a5f0c6e98434ea3f6553390c72ad2c3e46fb700a63640d87b03f42a7a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val_tuned\\BoxP_curve.png",
+    "destination": "archive/experiment-results/run4/run4_val_tuned/BoxP_curve.png",
+    "sha256": "c6eff1a3752dd8986df8a65c02e44f8ae53e4ab7f222a2acedabccae963863ec"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val_tuned\\BoxR_curve.png",
+    "destination": "archive/experiment-results/run4/run4_val_tuned/BoxR_curve.png",
+    "sha256": "a47740c62711cb69284427b6d455ccb98e2ade47864c02f3ccbc99bcdfbb41f5"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val_tuned\\confusion_matrix.png",
+    "destination": "archive/experiment-results/run4/run4_val_tuned/confusion_matrix.png",
+    "sha256": "76b6ac1ea0727eb6c5470cc2b505fc5e076a5a16b64068478852c70072d49bee"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val_tuned\\confusion_matrix_normalized.png",
+    "destination": "archive/experiment-results/run4/run4_val_tuned/confusion_matrix_normalized.png",
+    "sha256": "f5a798855d37d2a1e7e4fbc2fe2eb7f6878c1db2f2f38aef1d8d078429a51cef"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val_tuned\\val_batch0_labels.jpg",
+    "destination": "archive/experiment-results/run4/run4_val_tuned/val_batch0_labels.jpg",
+    "sha256": "4bddaf08eb018518976e4785d500ce7df708ed493fda697454565293700faab0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val_tuned\\val_batch0_pred.jpg",
+    "destination": "archive/experiment-results/run4/run4_val_tuned/val_batch0_pred.jpg",
+    "sha256": "058609c2d676e31526c84f53f340104d8a74f094cab82783b3f923c518e60283"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val_tuned\\val_batch1_labels.jpg",
+    "destination": "archive/experiment-results/run4/run4_val_tuned/val_batch1_labels.jpg",
+    "sha256": "3ef6ccad1e366d0fa4dd91e74b8200c7bd0368b687766bded35dec1de3a03e85"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val_tuned\\val_batch1_pred.jpg",
+    "destination": "archive/experiment-results/run4/run4_val_tuned/val_batch1_pred.jpg",
+    "sha256": "aaa1210296f54fea6fe5a3b18abcae8b9821034d6e32542822c20abb2555f31f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val_tuned\\val_batch2_labels.jpg",
+    "destination": "archive/experiment-results/run4/run4_val_tuned/val_batch2_labels.jpg",
+    "sha256": "412dc33f7814bcc473d93e4fbab35bff34835e5d9fe95c3500168bd9368f2760"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4_val_tuned\\val_batch2_pred.jpg",
+    "destination": "archive/experiment-results/run4/run4_val_tuned/val_batch2_pred.jpg",
+    "sha256": "45d61db39ffaeea4aac13bf394e1d6ff2fcacb2bf9dd57c94216587dc520739b"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image0.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image0.jpg",
+    "sha256": "bbfa60053dadc0bd4865931c20ce2e0b4d1803cb9d11db517e1cdb04a3a4dbb6"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image1.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image1.jpg",
+    "sha256": "ca1ac1f24504bc9f9e3e1f927d0eb8256d78fc3db7b2befc8b720b8230a76c51"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image10.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image10.jpg",
+    "sha256": "61867fa9325b0d63bc9201ec0e41023fbec1a526ab1dc4c172ee05a6b39ad0ae"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image11.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image11.jpg",
+    "sha256": "3f9a88fbd588a132ca3443b05990b1a11133c10eee1cc857f4613c413f8fa3e0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image12.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image12.jpg",
+    "sha256": "d60c0a1e1a99c15424e4fffc6330102cf2805f9fcaa8152644125dc92d07f746"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image13.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image13.jpg",
+    "sha256": "0f3cdef23ef39deb3625ec66e1f955784b470eead911e1a7b21920fa8010114d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image14.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image14.jpg",
+    "sha256": "e039ed34f18e028491be5634255cde6a76c976130220438730301ed0b606be0e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image15.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image15.jpg",
+    "sha256": "d0dc8326990601e002298cd8045738b23453256b6dcbb9df5fd3c51971cf86ff"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image2.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image2.jpg",
+    "sha256": "51c7add9c547a5d3ca1d0b28e71d190ef451efaf94838561e7a3946eec3d6e0a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image3.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image3.jpg",
+    "sha256": "a250a486522c1457df5694d3e638e04322a5675a6524da0a6a43cb1ad7648c3d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image4.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image4.jpg",
+    "sha256": "3c33150d6ca4c717d6155a3e9a768bc0c1ac0b0d81cdf8a951857fb62fd38aef"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image5.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image5.jpg",
+    "sha256": "6cbc5b4c9192901d199d458f853d44ed4020dc76435cad953e37f9f80d2b8f48"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image6.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image6.jpg",
+    "sha256": "d223e02dd65386aacd53110de354545aed69a56ac15673b598c14f66a7a25bb0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image7.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image7.jpg",
+    "sha256": "8fef79b74ef64de3cd2fdf17df2fe0c9e104f0da158e5fe8f3e7bfed9cea1193"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image8.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image8.jpg",
+    "sha256": "22d7368f36faba8a19a6007c336d9d445f48efa23407850b8b983e332bbd2a65"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run4\\run4\\demo\\image9.jpg",
+    "destination": "archive/experiment-results/run4/run4/demo/image9.jpg",
+    "sha256": "6cf2b42422b3e7aaf74f901066b7b63ccc36f70b8dcb91fa64190866b371ed22"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3\\args.yaml",
+    "destination": "archive/experiment-results/run3/run3/args.yaml",
+    "sha256": "566e484dfef6a596b61848f6b70dbdbe612f98f0a2749e85c7bac8973f59171f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3\\labels.jpg",
+    "destination": "archive/experiment-results/run3/run3/labels.jpg",
+    "sha256": "e17548d15b460d94b5a630b33693a976939fd2e3ccc1405a312028431701a5c3"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3\\results.csv",
+    "destination": "archive/experiment-results/run3/run3/results.csv",
+    "sha256": "286b1984587eb5e503a16b03d7fc0f141b6e079044c78b720194cd166df321b0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3\\train_batch0.jpg",
+    "destination": "archive/experiment-results/run3/run3/train_batch0.jpg",
+    "sha256": "991e07c334349802b0a9af641da463a050f3d2ac2a9ded1c2d0733d4f8f68aa3"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3\\train_batch1.jpg",
+    "destination": "archive/experiment-results/run3/run3/train_batch1.jpg",
+    "sha256": "23e41d7ead68f28fb8cb5fc0fffe05ed6b4cd1e87fc2cd65225a0a1a797c3775"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3\\train_batch2.jpg",
+    "destination": "archive/experiment-results/run3/run3/train_batch2.jpg",
+    "sha256": "8b5170ba3e8b7523ad6b07303c542b356e80fafe18880cd1c6e8c8497c48ba0e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_test_tuned\\BoxF1_curve.png",
+    "destination": "archive/experiment-results/run3/run3_test_tuned/BoxF1_curve.png",
+    "sha256": "cab534ccad44ba837bf7a4898461ad8e663982c4e992656a949ac1d4b03de4d4"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_test_tuned\\BoxPR_curve.png",
+    "destination": "archive/experiment-results/run3/run3_test_tuned/BoxPR_curve.png",
+    "sha256": "d07388dd7952134f486af4992822a8b028c1039f6be8a9a5c9e6265d2528ddb0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_test_tuned\\BoxP_curve.png",
+    "destination": "archive/experiment-results/run3/run3_test_tuned/BoxP_curve.png",
+    "sha256": "34e9b1b9da7b2d37e3e4882fd90b906ae31dff20e2d07def2f0caa6ff4a395e4"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_test_tuned\\BoxR_curve.png",
+    "destination": "archive/experiment-results/run3/run3_test_tuned/BoxR_curve.png",
+    "sha256": "254aa42546c7ec2ad027102c97361437587cd870f869b9d79e3bc2e3c588d661"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_test_tuned\\confusion_matrix.png",
+    "destination": "archive/experiment-results/run3/run3_test_tuned/confusion_matrix.png",
+    "sha256": "801d5d640f3d8cf500bf171accb9b1ad4090431c611c631cd59cb9279a8172cd"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_test_tuned\\confusion_matrix_normalized.png",
+    "destination": "archive/experiment-results/run3/run3_test_tuned/confusion_matrix_normalized.png",
+    "sha256": "b989fb5cbbb28e5c2044a43d26a94c5690806a2afabdfad6868f01f2a3704c0b"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_test_tuned\\val_batch0_labels.jpg",
+    "destination": "archive/experiment-results/run3/run3_test_tuned/val_batch0_labels.jpg",
+    "sha256": "d4f50c6afbe3a4b3ec4e65bccd0d66bfa6e363595eb8bd2498c358fae0e5471b"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_test_tuned\\val_batch0_pred.jpg",
+    "destination": "archive/experiment-results/run3/run3_test_tuned/val_batch0_pred.jpg",
+    "sha256": "6fb02f3c7df18cda697f526410096ce2a739326547d3f3be4428a83b50ee95c4"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_test_tuned\\val_batch1_labels.jpg",
+    "destination": "archive/experiment-results/run3/run3_test_tuned/val_batch1_labels.jpg",
+    "sha256": "3ba70070d276acadcee5871df269e57521c4cb7e79156a480ca4322a9111a34c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_test_tuned\\val_batch1_pred.jpg",
+    "destination": "archive/experiment-results/run3/run3_test_tuned/val_batch1_pred.jpg",
+    "sha256": "742fac26f856a3bb422f82ef9e45c25aa740c409d2f49ac4c2229aab1a8c9013"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_test_tuned\\val_batch2_labels.jpg",
+    "destination": "archive/experiment-results/run3/run3_test_tuned/val_batch2_labels.jpg",
+    "sha256": "8c54568ad91ee2936056e365d787a9c5e916c3f28098756ac98cca08e9abec88"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_test_tuned\\val_batch2_pred.jpg",
+    "destination": "archive/experiment-results/run3/run3_test_tuned/val_batch2_pred.jpg",
+    "sha256": "c4d3a333bef390e07d8b4a3b05cef12c0bfa634a3a2e84f330ecd4f2a05caabd"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_val_tuned\\BoxF1_curve.png",
+    "destination": "archive/experiment-results/run3/run3_val_tuned/BoxF1_curve.png",
+    "sha256": "14584195d5453dc3b7a325c0fde382b992b42df104cda541d3bb6f3a6a1c160a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_val_tuned\\BoxPR_curve.png",
+    "destination": "archive/experiment-results/run3/run3_val_tuned/BoxPR_curve.png",
+    "sha256": "26297cb897b5fca2df10d2cf1d4df81761baa935ffb7fbdb0362f655a5c74d97"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_val_tuned\\BoxP_curve.png",
+    "destination": "archive/experiment-results/run3/run3_val_tuned/BoxP_curve.png",
+    "sha256": "7307a0a4aabf71fe25685fdc8e29757ef84bc9298b9013de4326d05f285de7ce"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_val_tuned\\BoxR_curve.png",
+    "destination": "archive/experiment-results/run3/run3_val_tuned/BoxR_curve.png",
+    "sha256": "d5a891f2eb2695047240418288818d1d4ca64bf824f5abd0c7766474fa0ba59e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_val_tuned\\confusion_matrix.png",
+    "destination": "archive/experiment-results/run3/run3_val_tuned/confusion_matrix.png",
+    "sha256": "a9215d86fae74540b1ab18d1f83db6ba638554d32dbde415d68de93658a8ba37"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_val_tuned\\confusion_matrix_normalized.png",
+    "destination": "archive/experiment-results/run3/run3_val_tuned/confusion_matrix_normalized.png",
+    "sha256": "7b114fb97444f502f10af64ed01a54e21bdf2e5a29c8c9b0b72bc0bcbc345d38"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_val_tuned\\val_batch0_labels.jpg",
+    "destination": "archive/experiment-results/run3/run3_val_tuned/val_batch0_labels.jpg",
+    "sha256": "97091363b5d0fc338752b3aa9652aae100e1b6f3c86d299cac466955cf0fa112"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_val_tuned\\val_batch0_pred.jpg",
+    "destination": "archive/experiment-results/run3/run3_val_tuned/val_batch0_pred.jpg",
+    "sha256": "42339db067bd2cf3c0427531e9028463097207f7b027fab9e0a0d61736d47ade"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_val_tuned\\val_batch1_labels.jpg",
+    "destination": "archive/experiment-results/run3/run3_val_tuned/val_batch1_labels.jpg",
+    "sha256": "e481d88d5108d5de2081f5b2f35ffeb2cd44c9bd3a81fc5caeadf19638d69c6a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_val_tuned\\val_batch1_pred.jpg",
+    "destination": "archive/experiment-results/run3/run3_val_tuned/val_batch1_pred.jpg",
+    "sha256": "c1300b85db9b48336154020c0571ef131e8b85e4bee1a0d90f08db1f16693584"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_val_tuned\\val_batch2_labels.jpg",
+    "destination": "archive/experiment-results/run3/run3_val_tuned/val_batch2_labels.jpg",
+    "sha256": "c573dc25a4c39a70a35bf1aedac00c62909de5eabc74d6d7a85ea04078d23592"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run3\\run3_val_tuned\\val_batch2_pred.jpg",
+    "destination": "archive/experiment-results/run3/run3_val_tuned/val_batch2_pred.jpg",
+    "sha256": "c4e259158d36928b23ed3c4e3c87f744bcbb1932ddc80ea72b6bb4796bd33cf6"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\args.yaml",
+    "destination": "archive/experiment-results/run-1/iadd_n/args.yaml",
+    "sha256": "4ea20e0162e6bb5a9a94f338fda7373cac8337db29f9753594c0a15ada3e5308"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\BoxF1_curve.png",
+    "destination": "archive/experiment-results/run-1/iadd_n/BoxF1_curve.png",
+    "sha256": "a3d679e05a030a1c74fb45e0bdb12e32d3a17a6efbf5f2425d221f55af7dc659"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\BoxPR_curve.png",
+    "destination": "archive/experiment-results/run-1/iadd_n/BoxPR_curve.png",
+    "sha256": "8f71e22ccdba35d12dffd9c382bb281fad4afc828061bc9e00e7a250138d1b23"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\BoxP_curve.png",
+    "destination": "archive/experiment-results/run-1/iadd_n/BoxP_curve.png",
+    "sha256": "9d54487a448ccbeb3837f3ecf8df9c2277d47190f3e916b19a725c87ccd24454"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\BoxR_curve.png",
+    "destination": "archive/experiment-results/run-1/iadd_n/BoxR_curve.png",
+    "sha256": "f2f2c8f4a24972ed1135da5b88e5a4e32c39692a7cdd866ba0cb9f1fc192abd7"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\confusion_matrix.png",
+    "destination": "archive/experiment-results/run-1/iadd_n/confusion_matrix.png",
+    "sha256": "e8beaee1e778c2156141825bc912d6dcd03d092c025237de4ba7bc5998450993"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\confusion_matrix_normalized.png",
+    "destination": "archive/experiment-results/run-1/iadd_n/confusion_matrix_normalized.png",
+    "sha256": "911d88c0d9bd073f260fb9d9d0cf274b9ace66d8c98393facfda67f12c5e848a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\labels.jpg",
+    "destination": "archive/experiment-results/run-1/iadd_n/labels.jpg",
+    "sha256": "b28cfd826016e4b75771a33ad544299f3400089cba038dae59769570b0c2e83d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\results.csv",
+    "destination": "archive/experiment-results/run-1/iadd_n/results.csv",
+    "sha256": "82a153d5cbdfcb51d6f051762b16f61590a094322963e35a0760708ad9841d2d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\results.png",
+    "destination": "archive/experiment-results/run-1/iadd_n/results.png",
+    "sha256": "bcba9e0674b351b956566ca89d1a15d3c25d1838dff1f4e66112a181293e0549"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\train_batch0.jpg",
+    "destination": "archive/experiment-results/run-1/iadd_n/train_batch0.jpg",
+    "sha256": "7acc52c7290a542f7aa0cf10150152a089b1f8d5304a6f5bc9cdac1dc87b2d33"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\train_batch1.jpg",
+    "destination": "archive/experiment-results/run-1/iadd_n/train_batch1.jpg",
+    "sha256": "f3d931a6ba965608e9f1b64d2061e135d7e624a2acd545d34d154513bf917073"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\train_batch2.jpg",
+    "destination": "archive/experiment-results/run-1/iadd_n/train_batch2.jpg",
+    "sha256": "c0c20e18e43f7385cc6f38e86440e042b80021c1b480e1c51bcb09674baf058e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\train_batch9630.jpg",
+    "destination": "archive/experiment-results/run-1/iadd_n/train_batch9630.jpg",
+    "sha256": "9606b6ab99e4c5a0140136efd6c888e69d395a3a383e72895bd1ca4d70fa6186"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\train_batch9631.jpg",
+    "destination": "archive/experiment-results/run-1/iadd_n/train_batch9631.jpg",
+    "sha256": "beff8e3fd69396118ce09e0e77b9d5c4fccbdaeedf5160e3652ec19a32ae04eb"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\train_batch9632.jpg",
+    "destination": "archive/experiment-results/run-1/iadd_n/train_batch9632.jpg",
+    "sha256": "abe7a7506de8a2299d8c70e3bd6b59c189b3d2f0df705c517b1d9a47119d3628"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\val_batch0_labels.jpg",
+    "destination": "archive/experiment-results/run-1/iadd_n/val_batch0_labels.jpg",
+    "sha256": "be9190c9f4276788d41245c6af49beb9b27f7fe52621951df9260467e71827ce"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\val_batch0_pred.jpg",
+    "destination": "archive/experiment-results/run-1/iadd_n/val_batch0_pred.jpg",
+    "sha256": "c60e9ae5aa9bb2807949e2191986af5adc47aa92d9783cf5b6d400afc26927cd"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\val_batch1_labels.jpg",
+    "destination": "archive/experiment-results/run-1/iadd_n/val_batch1_labels.jpg",
+    "sha256": "8f2dd1ef36dce4a70ec457b3dd08fbab5118a6589e6796573f550be1e3c5e537"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\val_batch1_pred.jpg",
+    "destination": "archive/experiment-results/run-1/iadd_n/val_batch1_pred.jpg",
+    "sha256": "743bf16b605697da9037b97c5e5374777a9ae50a2573a26ac854da66357c44a5"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\val_batch2_labels.jpg",
+    "destination": "archive/experiment-results/run-1/iadd_n/val_batch2_labels.jpg",
+    "sha256": "e5df2041eff5ef1b0d5091c2a6d2e319ab0082f68dba9db4e11d793d050fdf2a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\runs\\run-1\\iadd_n\\val_batch2_pred.jpg",
+    "destination": "archive/experiment-results/run-1/iadd_n/val_batch2_pred.jpg",
+    "sha256": "e10c5780bcdabd43ca6cf004221535df9c47d41c48bf7e67d3a1e283c3a6bc38"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\build_thesis.py",
+    "destination": "archive/thesis-authoring/build_thesis.py",
+    "sha256": "f824be5e0c468aa682a0dc057e74713e521ff5b3a55d2b2cbdcb3f2b530bcae0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\00_قالب_و_آیین‌نامه\\bibliography.py",
+    "destination": "archive/thesis-authoring/00_قالب_و_آیین‌نامه/bibliography.py",
+    "sha256": "57cea4c2dc7d27d90dda56b58a8988ba37ac44ed6405dd5a9c7ed5f1a8e73a18"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\00_قالب_و_آیین‌نامه\\build_rules_summary.py",
+    "destination": "archive/thesis-authoring/00_قالب_و_آیین‌نامه/build_rules_summary.py",
+    "sha256": "57b66c2338e3001c18ae0cb0077ca9ccd4220b4035d0304f60f72eee44077b55"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\00_قالب_و_آیین‌نامه\\build_thesis_template.py",
+    "destination": "archive/thesis-authoring/00_قالب_و_آیین‌نامه/build_thesis_template.py",
+    "sha256": "1355aa6fa6f7ffbc94a24a94d071410d365380fd1d6cb75da5aa90625125686a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\00_قالب_و_آیین‌نامه\\check_punctuation.py",
+    "destination": "archive/thesis-authoring/00_قالب_و_آیین‌نامه/check_punctuation.py",
+    "sha256": "c380b7a1d7c1f22012640351ac90984fa714047a147a6f70ae11faf599aa00fa"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\00_قالب_و_آیین‌نامه\\figstyle.py",
+    "destination": "archive/thesis-authoring/00_قالب_و_آیین‌نامه/figstyle.py",
+    "sha256": "4b3348bbc7054c21af31bc91933e9f586ae346e618317bddba050846a238c7be"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\00_قالب_و_آیین‌نامه\\thesis_style.py",
+    "destination": "archive/thesis-authoring/00_قالب_و_آیین‌نامه/thesis_style.py",
+    "sha256": "d79ef77a34af9146ef22962150675ba573a46158c06ef799e65d86521e30cdf3"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\مراجع\\build_references.py",
+    "destination": "archive/thesis-authoring/مراجع/build_references.py",
+    "sha256": "35aab43f1ce66f201c6b4efd8ed4112308e5e2cfad2adb7ffc1d89bcb41cb843"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\مراجع\\highlight_used_passages.py",
+    "destination": "archive/thesis-authoring/مراجع/highlight_used_passages.py",
+    "sha256": "a8bdf8c82d7a39401b5f33a89fb1e4fed4d12727eff1d4a221118550e12d9071"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\مقدمه\\کد\\build_introduction.py",
+    "destination": "archive/thesis-authoring/مقدمه/کد/build_introduction.py",
+    "sha256": "b8ca02f57b2b7a67bd5a6a8f91c40b53a6d16e9fa18be981414d9ab958219652"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل4_بحث_و_نتیجه‌گیری\\کد\\build_chapter4.py",
+    "destination": "archive/thesis-authoring/فصل4_بحث_و_نتیجه‌گیری/کد/build_chapter4.py",
+    "sha256": "574deaefabe7f1245f573395eeaf855a9f3c93a6522a98e2b8cf2afc7a582c95"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل4_بحث_و_نتیجه‌گیری\\کد\\count_addable_bus.py",
+    "destination": "archive/thesis-authoring/فصل4_بحث_و_نتیجه‌گیری/کد/count_addable_bus.py",
+    "sha256": "b1329137045408bf3e2b50abc6a4cf1496aaac9929665f4b38e6966bf3a5cce9"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل3_نتایج\\کد\\build_chapter3.py",
+    "destination": "archive/thesis-authoring/فصل3_نتایج/کد/build_chapter3.py",
+    "sha256": "3368ed64a8f675bcdbe863d81ddf78e5078e384ba1538d5919e7bee09a21a046"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل3_نتایج\\کد\\export_confusion_at_op.py",
+    "destination": "archive/thesis-authoring/فصل3_نتایج/کد/export_confusion_at_op.py",
+    "sha256": "613dd5078a04423eb9950db02aeb739e3911f5d483c81956e3c20394459092e4"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل3_نتایج\\کد\\export_eval_curves.py",
+    "destination": "archive/thesis-authoring/فصل3_نتایج/کد/export_eval_curves.py",
+    "sha256": "7412481a681e8c3b400b92c2ef4e76d6b2995b3426040f8896fe36f2d6abc6f2"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل3_نتایج\\کد\\make_demo_gt_pred.py",
+    "destination": "archive/thesis-authoring/فصل3_نتایج/کد/make_demo_gt_pred.py",
+    "sha256": "a03d01e520f5cf50e702d02d85710b51bb50be82a90b489307e45a62e3d982bd"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل3_نتایج\\کد\\make_figures_ch3.py",
+    "destination": "archive/thesis-authoring/فصل3_نتایج/کد/make_figures_ch3.py",
+    "sha256": "2f6d809ea79baececbf3c3cd16fd5e0c07e7f761d01dfd6875a15bb958de66f0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل3_نتایج\\کد\\render_plain_boxes.py",
+    "destination": "archive/thesis-authoring/فصل3_نتایج/کد/render_plain_boxes.py",
+    "sha256": "0d60437b36da8c13cd403af2771a64a62d49dc13c7027461fcc8558ab22469ff"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل3_نتایج\\کد\\render_plain_gt.py",
+    "destination": "archive/thesis-authoring/فصل3_نتایج/کد/render_plain_gt.py",
+    "sha256": "7823c181f882d272f3589879684b511e93a11fc0f2e62f244de06c922954ae7c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل2_روش_و_داده\\کد\\build_chapter2.py",
+    "destination": "archive/thesis-authoring/فصل2_روش_و_داده/کد/build_chapter2.py",
+    "sha256": "6da605311a5205b8d9d36be20e03c3ed5d6338933421dc1697331afe777d813a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل2_روش_و_داده\\کد\\build_subset_v5.py",
+    "destination": "archive/thesis-authoring/فصل2_روش_و_داده/کد/build_subset_v5.py",
+    "sha256": "0a6c28dd0ea9e0871c3fa41ffa9a443f02291d84d0c08efeffa572fe092707ec"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل2_روش_و_داده\\کد\\build_validity_doc.py",
+    "destination": "archive/thesis-authoring/فصل2_روش_و_داده/کد/build_validity_doc.py",
+    "sha256": "6b6d3cb8ef2a8385b044dae771d3908224bff50e609e072355402c5ef5c6448d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل2_روش_و_داده\\کد\\compute_v5_validity.py",
+    "destination": "archive/thesis-authoring/فصل2_روش_و_داده/کد/compute_v5_validity.py",
+    "sha256": "90adc71a804cf8cdf9e97cf1270d51331ff6ddb759f5c0b5b6f2476d2757f09b"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل2_روش_و_داده\\کد\\make_figures_ch2.py",
+    "destination": "archive/thesis-authoring/فصل2_روش_و_داده/کد/make_figures_ch2.py",
+    "sha256": "857241649290fe0c1b58275a4dadde6e5192db7ced00098a3d0ca4941bfbfa1a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل1_پیشینه\\کد\\build_chapter1.py",
+    "destination": "archive/thesis-authoring/فصل1_پیشینه/کد/build_chapter1.py",
+    "sha256": "734d54b6a389cb59549e18b7674b9ae5f7b88a4dbb46b4650cdab72211cdd49a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل1_پیشینه\\کد\\make_figures_ch1.py",
+    "destination": "archive/thesis-authoring/فصل1_پیشینه/کد/make_figures_ch1.py",
+    "sha256": "1f3e09bc1a89f7c362416720a6472e9e9dab9ab2987cdaf47ed06314399771a0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد\\build_knowledge_doc.py",
+    "destination": "archive/thesis-authoring/ارائه/کد/build_knowledge_doc.py",
+    "sha256": "1b13b53215b4a1d4cd7f299bf5fda11c1af4c0806c02b34580e5fd10b349f694"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد\\content_a.py",
+    "destination": "archive/thesis-authoring/ارائه/کد/content_a.py",
+    "sha256": "7d12208a83c1ec58e12a254823a772e055a510837ac010c1f0a49432a84cdd3d"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد\\content_b.py",
+    "destination": "archive/thesis-authoring/ارائه/کد/content_b.py",
+    "sha256": "8f70064270e24150afcedeac55f887912e9785de6e9fc6c665281454183de171"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد\\deck.py",
+    "destination": "archive/thesis-authoring/ارائه/کد/deck.py",
+    "sha256": "10375b9a4f7c54e5b8c4d3c369949d11f460c5d086056abf0a98bb2b12560495"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد\\make_slide_figures.py",
+    "destination": "archive/thesis-authoring/ارائه/کد/make_slide_figures.py",
+    "sha256": "ecd5492411905a68acd9cabf5b31e1dee419770622aecace416fac08fe9f188a"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد_داده\\build_subset_v5.py",
+    "destination": "archive/thesis-authoring/ارائه/کد_داده/build_subset_v5.py",
+    "sha256": "0a6c28dd0ea9e0871c3fa41ffa9a443f02291d84d0c08efeffa572fe092707ec"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد_نمودارها\\compute_v5_validity.py",
+    "destination": "archive/thesis-authoring/ارائه/کد_نمودارها/compute_v5_validity.py",
+    "sha256": "90adc71a804cf8cdf9e97cf1270d51331ff6ddb759f5c0b5b6f2476d2757f09b"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد_نمودارها\\content_a.py",
+    "destination": "archive/thesis-authoring/ارائه/کد_نمودارها/content_a.py",
+    "sha256": "c7d1129cc4d968ef9c0449c800cfa0dbb2e865ba6e47d06eff72ac9684befafa"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد_نمودارها\\content_b.py",
+    "destination": "archive/thesis-authoring/ارائه/کد_نمودارها/content_b.py",
+    "sha256": "79f1128c2c5b9c23a3ece4f2dd88c401416c2d726126134376cdde43515da90e"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد_نمودارها\\export_eval_curves.py",
+    "destination": "archive/thesis-authoring/ارائه/کد_نمودارها/export_eval_curves.py",
+    "sha256": "7412481a681e8c3b400b92c2ef4e76d6b2995b3426040f8896fe36f2d6abc6f2"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد_نمودارها\\figstyle.py",
+    "destination": "archive/thesis-authoring/ارائه/کد_نمودارها/figstyle.py",
+    "sha256": "4b3348bbc7054c21af31bc91933e9f586ae346e618317bddba050846a238c7be"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد_نمودارها\\make_demo_gt_pred.py",
+    "destination": "archive/thesis-authoring/ارائه/کد_نمودارها/make_demo_gt_pred.py",
+    "sha256": "a03d01e520f5cf50e702d02d85710b51bb50be82a90b489307e45a62e3d982bd"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد_نمودارها\\make_figures_ch1.py",
+    "destination": "archive/thesis-authoring/ارائه/کد_نمودارها/make_figures_ch1.py",
+    "sha256": "1f3e09bc1a89f7c362416720a6472e9e9dab9ab2987cdaf47ed06314399771a0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد_نمودارها\\make_figures_ch2.py",
+    "destination": "archive/thesis-authoring/ارائه/کد_نمودارها/make_figures_ch2.py",
+    "sha256": "839b607fbe615adfc07abec8bb15166045377abbc00c79e3834b28882d1a05c3"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد_نمودارها\\make_figures_ch3.py",
+    "destination": "archive/thesis-authoring/ارائه/کد_نمودارها/make_figures_ch3.py",
+    "sha256": "561a9cdb4ff1264982ca024b21eeac3147bfa49330c478d200cc8cf5c0fe602c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد_نمودارها\\make_slide_figures.py",
+    "destination": "archive/thesis-authoring/ارائه/کد_نمودارها/make_slide_figures.py",
+    "sha256": "93132d2b786defc7105bfcc607cb9d44ff2685a5d1dfd5f122ae58e27f54f0e1"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد_نمودارها\\render_plain_boxes.py",
+    "destination": "archive/thesis-authoring/ارائه/کد_نمودارها/render_plain_boxes.py",
+    "sha256": "0d60437b36da8c13cd403af2771a64a62d49dc13c7027461fcc8558ab22469ff"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\کد_نمودارها\\render_plain_gt.py",
+    "destination": "archive/thesis-authoring/ارائه/کد_نمودارها/render_plain_gt.py",
+    "sha256": "7823c181f882d272f3589879684b511e93a11fc0f2e62f244de06c922954ae7c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\مطالعات قبل از ارائه\\کدها\\build_subset.py",
+    "destination": "archive/thesis-authoring/ارائه/مطالعات قبل از ارائه/کدها/build_subset.py",
+    "sha256": "69061bdd74f3aff661626f50f9d8e033143f44b17ca7e7a24e205e49726d4e3f"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\مطالعات قبل از ارائه\\کدها\\build_subset_v4.py",
+    "destination": "archive/thesis-authoring/ارائه/مطالعات قبل از ارائه/کدها/build_subset_v4.py",
+    "sha256": "99f7c0447cac7cfd5a4399880d8f41c97844a4871a35fc27d27c1d0cb9d98fd6"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\مطالعات قبل از ارائه\\کدها\\build_subset_v5.py",
+    "destination": "archive/thesis-authoring/ارائه/مطالعات قبل از ارائه/کدها/build_subset_v5.py",
+    "sha256": "a0c793e4d4ec0fcec5f9c8873ea4e4082932d5a6e5ffda2edbba5b9ce7d91541"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\مطالعات قبل از ارائه\\کدها\\compute_v5_validity.py",
+    "destination": "archive/thesis-authoring/ارائه/مطالعات قبل از ارائه/کدها/compute_v5_validity.py",
+    "sha256": "806a063222423823989d1404645eb9014a799c4793f59903cb9f425248a38826"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\مطالعات قبل از ارائه\\کدها\\demo_boxes_simple.py",
+    "destination": "archive/thesis-authoring/ارائه/مطالعات قبل از ارائه/کدها/demo_boxes_simple.py",
+    "sha256": "ae082a74933f28e9220bff985cc362083f95ce4b7cd9d0a08d557a92bd37afeb"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\مطالعات قبل از ارائه\\کدها\\export_eval_curves.py",
+    "destination": "archive/thesis-authoring/ارائه/مطالعات قبل از ارائه/کدها/export_eval_curves.py",
+    "sha256": "7412481a681e8c3b400b92c2ef4e76d6b2995b3426040f8896fe36f2d6abc6f2"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\مطالعات قبل از ارائه\\کدها\\make_demo_gt_pred.py",
+    "destination": "archive/thesis-authoring/ارائه/مطالعات قبل از ارائه/کدها/make_demo_gt_pred.py",
+    "sha256": "a03d01e520f5cf50e702d02d85710b51bb50be82a90b489307e45a62e3d982bd"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\مطالعات قبل از ارائه\\کدها\\make_figures_ch3.py",
+    "destination": "archive/thesis-authoring/ارائه/مطالعات قبل از ارائه/کدها/make_figures_ch3.py",
+    "sha256": "2f6d809ea79baececbf3c3cd16fd5e0c07e7f761d01dfd6875a15bb958de66f0"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\ارائه\\مطالعات قبل از ارائه\\کدها\\train_iadd_yolov11.py",
+    "destination": "archive/thesis-authoring/ارائه/مطالعات قبل از ارائه/کدها/train_iadd_yolov11.py",
+    "sha256": "64af52aa217ed6a8701d8583840817e32af461fff11eead5927dbdb943c62d26"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\00_صفحات_فرعی\\کد\\build_front_matter.py",
+    "destination": "archive/thesis-authoring/00_صفحات_فرعی/کد/build_front_matter.py",
+    "sha256": "85416b9658f6558dd6e7feb4c5196fadb9ed71f64ff288a55da4631b9697b1d4"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\add_metrics_slide.ps1",
+    "destination": "archive/document-and-slide-tools/add_metrics_slide.ps1",
+    "sha256": "6dc78369d14e1c1d2f50d5e9143b790bfccb4354cf6957a2fb00660e5810e9fb"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\add_size_code_slide18.ps1",
+    "destination": "archive/document-and-slide-tools/add_size_code_slide18.ps1",
+    "sha256": "7d4fdc176fdcb33f021339ea7104052e56cec40431fa5fc300825c3daac2b77c"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\align_speaker_tables_stage2.py",
+    "destination": "archive/document-and-slide-tools/align_speaker_tables_stage2.py",
+    "sha256": "2ac4facc236205639365a7549033c4e67ce5b29a27e9e10fbcac4e426f20d1f3"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\audit_architecture_conceptual.py",
+    "destination": "archive/document-and-slide-tools/audit_architecture_conceptual.py",
+    "sha256": "b542ea8a1a97042776c81917a02f826704bdbb8092da9ed9afdfd2a6513f2e53"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\audit_bib_format.py",
+    "destination": "archive/document-and-slide-tools/audit_bib_format.py",
+    "sha256": "df47070405365c28078991fa2c94182048a34f985701dced0135073cc770505d"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\audit_chart_guide.py",
+    "destination": "archive/document-and-slide-tools/audit_chart_guide.py",
+    "sha256": "89f9f465ec72a7e02dc5f466297001190b3500a5ae949adc7521ee06b3adc694"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\audit_docx_refs.py",
+    "destination": "archive/document-and-slide-tools/audit_docx_refs.py",
+    "sha256": "8f05bc5e4ecd4f1baf824fb340df95121fe836516ca52bb95a3c6852c3c95886"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\audit_duplicate_pairs.py",
+    "destination": "archive/document-and-slide-tools/audit_duplicate_pairs.py",
+    "sha256": "8bad736fc711e49395c62597f845c8e550d90dfc68688f73cf808c033bca7a63"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\audit_map_docx.py",
+    "destination": "archive/document-and-slide-tools/audit_map_docx.py",
+    "sha256": "f29de8be882b148cae887aeb8ef08f1feab2c682fb5dbe6cd02a6bf0fdb55d67"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\audit_thesis_refs_and_section.py",
+    "destination": "archive/document-and-slide-tools/audit_thesis_refs_and_section.py",
+    "sha256": "a423ed88ceaa840b34d8f4dd6bc71736ba5ad0af4ef1e142f4b462c5a78e7d51"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\build_chart_study_guide.py",
+    "destination": "archive/document-and-slide-tools/build_chart_study_guide.py",
+    "sha256": "bb4d033edb2ed95780dcaf4ae1f07fe4000b282343d9daaf5cf9b4294091591c"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\build_compute_validity_guide.py",
+    "destination": "archive/document-and-slide-tools/build_compute_validity_guide.py",
+    "sha256": "b79ab8afa812e3821a3751eae9b360adc8fc85ce46c220bea44854e6ab10efbd"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\build_defense_script.py",
+    "destination": "archive/document-and-slide-tools/build_defense_script.py",
+    "sha256": "4579126f0be294aaeaa23c6b521426f17a70605d7f060e309754d2cb0ecb6b03"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\build_iadd_persian_guide.py",
+    "destination": "archive/document-and-slide-tools/build_iadd_persian_guide.py",
+    "sha256": "7cd28652aef15afe78e4a4e4461a00c2b3c8525a44cefe498b92231a43c74513"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\build_iadd_persian_guide_short.py",
+    "destination": "archive/document-and-slide-tools/build_iadd_persian_guide_short.py",
+    "sha256": "0271608b8d3bc136daa4d27d16e73ee13479113b6f18144073620f40e5a0017f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\build_iadd_study_pdf.py",
+    "destination": "archive/document-and-slide-tools/build_iadd_study_pdf.py",
+    "sha256": "3ae68e7e760a4f7d12a2c21ec4225bccbe9a20256b2ffcc07bec5d863658410e"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\build_network_defense_guides.py",
+    "destination": "archive/document-and-slide-tools/build_network_defense_guides.py",
+    "sha256": "e67612d6af8bf34014294867b095d2ac5a06fdf83c137805cb4c8265be4dc5de"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\build_six_hour_code_guide.py",
+    "destination": "archive/document-and-slide-tools/build_six_hour_code_guide.py",
+    "sha256": "e3a08ff1f9acee8523f5cd0921eb67c91977928d4cebe479664461283692049f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\build_submission_bundle.py",
+    "destination": "archive/document-and-slide-tools/build_submission_bundle.py",
+    "sha256": "3decb91ac25b0ddcdde78148eb273cd2be5004e2b8d97eebddaecfb7cd3063da"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\build_yolo11_architecture_replacement.py",
+    "destination": "archive/document-and-slide-tools/build_yolo11_architecture_replacement.py",
+    "sha256": "c3e8e62a16155d6fce1d7ffea3303c0b6f38ee2bd45115da94dfec77e1740259"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\canonical_rtl_guides.py",
+    "destination": "archive/document-and-slide-tools/canonical_rtl_guides.py",
+    "sha256": "b57b8169fb96d549778fb95ba56d48788f5990e7b87f06338247257f6b9ec024"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\citation_audit.py",
+    "destination": "archive/document-and-slide-tools/citation_audit.py",
+    "sha256": "f0f0096db4cbe8fc9c838167d7863d937a65e642894db89ce63873999b874a1d"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\compare_ch3_images.py",
+    "destination": "archive/document-and-slide-tools/compare_ch3_images.py",
+    "sha256": "096ae51babbc36e54e9e8ed84422e377577999ec1dc67585aa0133b6ad439fb9"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\compare_thesis_ppt.py",
+    "destination": "archive/document-and-slide-tools/compare_thesis_ppt.py",
+    "sha256": "78a913c1af64afee143318a7b3eebe5de8422a5fbf91e572cfeb9b31f26e7c42"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\complete_reference_slide.ps1",
+    "destination": "archive/document-and-slide-tools/complete_reference_slide.ps1",
+    "sha256": "10fa50b989bf92d63edf054ab55a8a8aa46021a85e53b314afb4235a1e540668"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\content_a_edit.py",
+    "destination": "archive/document-and-slide-tools/content_a_edit.py",
+    "sha256": "7d12208a83c1ec58e12a254823a772e055a510837ac010c1f0a49432a84cdd3d"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\content_b_edit.py",
+    "destination": "archive/document-and-slide-tools/content_b_edit.py",
+    "sha256": "8f70064270e24150afcedeac55f887912e9785de6e9fc6c665281454183de171"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\deck_edit.py",
+    "destination": "archive/document-and-slide-tools/deck_edit.py",
+    "sha256": "10375b9a4f7c54e5b8c4d3c369949d11f460c5d086056abf0a98bb2b12560495"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\dedupe_ref8.py",
+    "destination": "archive/document-and-slide-tools/dedupe_ref8.py",
+    "sha256": "07e291a887c16ad9c83a7e4add555c91b348f77acf6274dac4443a0edc74d35f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\demo_boxes_simple.py",
+    "destination": "archive/document-and-slide-tools/demo_boxes_simple.py",
+    "sha256": "ae082a74933f28e9220bff985cc362083f95ce4b7cd9d0a08d557a92bd37afeb"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\draw_original_labels.py",
+    "destination": "archive/document-and-slide-tools/draw_original_labels.py",
+    "sha256": "43cb1337283da7bc044baa85a00ad5743ba0355b155f1207b10997fa9797f626"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\dump_citations.py",
+    "destination": "archive/document-and-slide-tools/dump_citations.py",
+    "sha256": "9a705e06fdb2282774126c231dc62d0b151f2b9d3357238132a0061d7868efec"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\edit_supervisor_deck.ps1",
+    "destination": "archive/document-and-slide-tools/edit_supervisor_deck.ps1",
+    "sha256": "c0ccdf95440bbb9748ca7ffcefe31b599c865772a8b65dbec7b8dfac7855264a"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\eq_refs.py",
+    "destination": "archive/document-and-slide-tools/eq_refs.py",
+    "sha256": "47e35a268940bdca0869c276602968e55c13a6ea8e9c0134ffefc1aa7708af1e"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\export_final_checks.ps1",
+    "destination": "archive/document-and-slide-tools/export_final_checks.ps1",
+    "sha256": "63ad7b7a8d585f7d64ee7032e3854b346539eb32a26b3fab0192f5283a2fbad1"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\export_metric_rebuild.ps1",
+    "destination": "archive/document-and-slide-tools/export_metric_rebuild.ps1",
+    "sha256": "777bcebe04daa0488c2088693d603786b074538e9d58ffad06eccd1ce21df950"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\export_network_guides.ps1",
+    "destination": "archive/document-and-slide-tools/export_network_guides.ps1",
+    "sha256": "dfcc89553a67d75b39c770e1242349b899cee1a735e7d281f742e59df77bc2b9"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\export_reference_check.ps1",
+    "destination": "archive/document-and-slide-tools/export_reference_check.ps1",
+    "sha256": "a34a69a3fbbe083a2c83ada23e542f6326c79a1bae81d8c9fa430d97ff0fef6c"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\export_refs_final.ps1",
+    "destination": "archive/document-and-slide-tools/export_refs_final.ps1",
+    "sha256": "7b26f8a0dde4545fda43284d478361db96590fca21747a586514dc1408f7bab2"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\extract_iadd_sources.py",
+    "destination": "archive/document-and-slide-tools/extract_iadd_sources.py",
+    "sha256": "342b70617f37c70d1849ee5e135f5536550b5b630bc0528e5f287c51eb9fe88e"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\extract_refs.py",
+    "destination": "archive/document-and-slide-tools/extract_refs.py",
+    "sha256": "e8258ed5a22f896501db6cb0abc70f1865a5e13211326fcfd90e91194f481397"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\extract_section_144_math.py",
+    "destination": "archive/document-and-slide-tools/extract_section_144_math.py",
+    "sha256": "726b7fb29b8230ff0c7b0289edb6a41d5816d1d89c17fa28921b378e0b5e1d48"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\extract_thesis_tables.py",
+    "destination": "archive/document-and-slide-tools/extract_thesis_tables.py",
+    "sha256": "6a68e268f0ae1a5d430b0058b7a373f09758206584f78d2e5ad9c3e35f2a174e"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\finalize_defense_refs.py",
+    "destination": "archive/document-and-slide-tools/finalize_defense_refs.py",
+    "sha256": "782b291dbb003c1f778c1e354a9938bd40cc5c2e58fd4b78b04038836a8db61a"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\finalize_metrics_and_refs.ps1",
+    "destination": "archive/document-and-slide-tools/finalize_metrics_and_refs.ps1",
+    "sha256": "0e881d6fadd7d68c3620a37c0856bd1b30888e2250b11431d42803bbd5372417"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\finalize_references.py",
+    "destination": "archive/document-and-slide-tools/finalize_references.py",
+    "sha256": "d73fc54e775feef2b2cfe395a565756f45b42975685a53d7826f2dca85ab1a55"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\final_qa.py",
+    "destination": "archive/document-and-slide-tools/final_qa.py",
+    "sha256": "55d16ad9b39e5fd56b9563924d3310e240022bf769b84b8f5005c02bc6a535aa"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\find_figure_1_3.py",
+    "destination": "archive/document-and-slide-tools/find_figure_1_3.py",
+    "sha256": "174a9d3fffc1a5f1550e4093ed3cb90f4a72cc3e811ac7a1e431a88e8b48155d"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\finish_iou_slide.ps1",
+    "destination": "archive/document-and-slide-tools/finish_iou_slide.ps1",
+    "sha256": "1651417511808c7e6aedfbb226be8d6de3ebcad6940e8ea0ff068ddfe5e43db8"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\fix_drawio_direction.py",
+    "destination": "archive/document-and-slide-tools/fix_drawio_direction.py",
+    "sha256": "4063a606351cdc6895fe2ac116b833d6cb2a9e4dde592b70c1ef95b73dc6d387"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\fix_eval_citation.py",
+    "destination": "archive/document-and-slide-tools/fix_eval_citation.py",
+    "sha256": "0866ea8e0ff409fdf24fc553172324e6800cc7f63666c5d5bfb83c2bb04752ce"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\fix_guide_direction_math.py",
+    "destination": "archive/document-and-slide-tools/fix_guide_direction_math.py",
+    "sha256": "942097f20488572ec76d5b0e3713a24faffee5f99206e70baa2acb5bc33b9f09"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\fix_iadd_record_filenames.py",
+    "destination": "archive/document-and-slide-tools/fix_iadd_record_filenames.py",
+    "sha256": "2abd77b66ebb4f7f254a6ba141e9474bfc6840fb53f9361daaaf2fe0b14b4b48"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\fix_slide9_heading.py",
+    "destination": "archive/document-and-slide-tools/fix_slide9_heading.py",
+    "sha256": "2f07c70d2ac2196e24340e60b099a77794e350d8eec2a55b3416866e3c4323a7"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\fix_weather_table.ps1",
+    "destination": "archive/document-and-slide-tools/fix_weather_table.ps1",
+    "sha256": "6f85e51b960bd00631d93f613656af0bb741d7b608bee305f71bfc5960c62779"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\improve_slide14.ps1",
+    "destination": "archive/document-and-slide-tools/improve_slide14.ps1",
+    "sha256": "131f0c6c90292b5045eb34beb827ed298e62d385edb9af730f1de416216c68b9"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\improve_slides16_17.ps1",
+    "destination": "archive/document-and-slide-tools/improve_slides16_17.ps1",
+    "sha256": "492f8232f9cfe3ee1e12b68cb0b39483169c669278b6007a0fa9e87ea02fcb4f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_architecture_conceptual.py",
+    "destination": "archive/document-and-slide-tools/inspect_architecture_conceptual.py",
+    "sha256": "a1313f01f7d9d3a806f17cf29cc3fa5622e3a1954fbaa1d908f58988a3bb091f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_chart_data.py",
+    "destination": "archive/document-and-slide-tools/inspect_chart_data.py",
+    "sha256": "2d26dd4023a98207510775261e77370879cbbb9ea274e8b7f836fb1f59be018f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_chart_pdf.py",
+    "destination": "archive/document-and-slide-tools/inspect_chart_pdf.py",
+    "sha256": "35b21b212016129abd22ca9ce201e538ecf4410a47880d345d55e682e4baea38"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_citation_xml.py",
+    "destination": "archive/document-and-slide-tools/inspect_citation_xml.py",
+    "sha256": "ba84f806251efd0aad3d054d3a76f7e1ba81dbe91d8be5c0c9c2a4149feebdf5"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_current_thesis.py",
+    "destination": "archive/document-and-slide-tools/inspect_current_thesis.py",
+    "sha256": "1bcff9bf3ea839436fcdf15f8a5b4a929374553906a214434e6f29fb686de8fd"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_deck.py",
+    "destination": "archive/document-and-slide-tools/inspect_deck.py",
+    "sha256": "4e24d0d3120c7c7babddb4f50cd991c22cfb0feddb55af8335234a15c692a718"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_defense_model.py",
+    "destination": "archive/document-and-slide-tools/inspect_defense_model.py",
+    "sha256": "0efd00ef9f8fadd915fbf82b069552fb94094fe9b8b6a0689d0f8c83dc44733a"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_docx_parts.py",
+    "destination": "archive/document-and-slide-tools/inspect_docx_parts.py",
+    "sha256": "e0fffaaf0339930c75cfa17a6953a598b8ac6c25656daa0dd24d131dbc52a412"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_footnotes.py",
+    "destination": "archive/document-and-slide-tools/inspect_footnotes.py",
+    "sha256": "c823a3266787ed4a3816c0978f6bf799b3cef84e5a838a3e49be1913d9ab6325"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_iadd_blocks.py",
+    "destination": "archive/document-and-slide-tools/inspect_iadd_blocks.py",
+    "sha256": "253616ead013d034aa125b3aeda116186145c9a0134d2ab2f77b56d1cf72a5ec"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_iadd_counts.py",
+    "destination": "archive/document-and-slide-tools/inspect_iadd_counts.py",
+    "sha256": "06e556eabc00664ec90f0f3ccfd3af4471c8d877b8b092d6da06fc183b824486"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_iadd_highlights.py",
+    "destination": "archive/document-and-slide-tools/inspect_iadd_highlights.py",
+    "sha256": "469bfb21a8d679ae67eaa18f372d539c8b2fe668ec45f98dc6d55fae268f27ac"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_iadd_paper.py",
+    "destination": "archive/document-and-slide-tools/inspect_iadd_paper.py",
+    "sha256": "ed6da0a2378331b1f19d0a843d7e81c081c50a2d2ed8af7b2b5bb457fcf2011b"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_map2.py",
+    "destination": "archive/document-and-slide-tools/inspect_map2.py",
+    "sha256": "6905467370feb27f98777d8c9b24e9c55841577c669ff227e0a5bfee67b2bf78"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_map3.py",
+    "destination": "archive/document-and-slide-tools/inspect_map3.py",
+    "sha256": "807557ba50106aa87019355cec5517b60528c9ee8febb486c20eb0c0391d431f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_map_section.py",
+    "destination": "archive/document-and-slide-tools/inspect_map_section.py",
+    "sha256": "df6c25840738988e3c7f29ddf428e7c342e3da5bf3595a87163b7257b28907f7"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_new_metric_shapes.py",
+    "destination": "archive/document-and-slide-tools/inspect_new_metric_shapes.py",
+    "sha256": "666dbc54d372768236820357ead81286fe22f7d7f8004661f23935998fc25653"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_paras.py",
+    "destination": "archive/document-and-slide-tools/inspect_paras.py",
+    "sha256": "a8a5f91099ee48bfcd22b388834e7a97c41bad5388283abbc16bea3f774a9f02"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_ppt.py",
+    "destination": "archive/document-and-slide-tools/inspect_ppt.py",
+    "sha256": "761e987d699bb08aa69ddc6866e6720e1421d1f2d9cb67d6cfb45d9a5513b89f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_refs.py",
+    "destination": "archive/document-and-slide-tools/inspect_refs.py",
+    "sha256": "b0b276faf9bc4897814b0f0a8446aae589743c1b527fff8a3f8907c36db57d8f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_refs_deck.py",
+    "destination": "archive/document-and-slide-tools/inspect_refs_deck.py",
+    "sha256": "9e42cb358a6b745fdaa66cdbeee978582a50f15573f6d380300e9d6df7e27110"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_ref_styles.py",
+    "destination": "archive/document-and-slide-tools/inspect_ref_styles.py",
+    "sha256": "7759b6c924639b14ff7bb7a280a8483849ca8d8391c5be21032320e6c7bb5263"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_ref_usage.py",
+    "destination": "archive/document-and-slide-tools/inspect_ref_usage.py",
+    "sha256": "1c7ec4b6c59282e27cabb4e0ca7dd1e377ac923f285d44112189baed2e7d47a9"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_six_hour_code_guide.py",
+    "destination": "archive/document-and-slide-tools/inspect_six_hour_code_guide.py",
+    "sha256": "c22c7729e45dff41ba54764f97ad7ea10a8aa5e231a5448aef6ec5cd3f0c1638"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_slide5.py",
+    "destination": "archive/document-and-slide-tools/inspect_slide5.py",
+    "sha256": "184e28bad960dc9fa1a5b906099076d43803423364989178bcc7b8ae08efb8f7"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_styles.py",
+    "destination": "archive/document-and-slide-tools/inspect_styles.py",
+    "sha256": "e3495ea8f0aa1d11c86a997110ab3b69da732c5c7620217093900f67f939c8d4"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_submission.py",
+    "destination": "archive/document-and-slide-tools/inspect_submission.py",
+    "sha256": "844bb18f22bf480c85c456ae7a0aa3cb88decb00bae6909ed6689f55bdae7bba"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_text_runs.py",
+    "destination": "archive/document-and-slide-tools/inspect_text_runs.py",
+    "sha256": "be1ca1162617ac8fb111e5b301b3dbe0dd518d30e030150b205d40f0d93d6303"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_thesis_map_equations.py",
+    "destination": "archive/document-and-slide-tools/inspect_thesis_map_equations.py",
+    "sha256": "e62e930c163c09b54e73845dde18880a1b453dbe49f3d55d71c012f6625623bd"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_thesis_refs.py",
+    "destination": "archive/document-and-slide-tools/inspect_thesis_refs.py",
+    "sha256": "0982444d970f653e2b5d2e641c490ce97b1cf2423967ccee0c1f5996ec500019"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\inspect_weather_slide.py",
+    "destination": "archive/document-and-slide-tools/inspect_weather_slide.py",
+    "sha256": "c47ae774142e03dfe64cf402131798fe82a8dd2ae7ffcdcae25ea6173693f7d9"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\list_slide_refs.py",
+    "destination": "archive/document-and-slide-tools/list_slide_refs.py",
+    "sha256": "7cf61ed0dc4c829901db6bd27e80ed540263fb08c4621c4da1213b569b0ea559"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\make_contact_sheets.py",
+    "destination": "archive/document-and-slide-tools/make_contact_sheets.py",
+    "sha256": "c54302a057a9d5fef1693748372eeab9f59e354b52c647bf25521e996e5f0e3f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\make_docx_contact_sheets.py",
+    "destination": "archive/document-and-slide-tools/make_docx_contact_sheets.py",
+    "sha256": "996d354d22772ba966a704d811008eff586f638b77e65f142aaa7a87ce2577f1"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\make_duplicate_examples.py",
+    "destination": "archive/document-and-slide-tools/make_duplicate_examples.py",
+    "sha256": "7b399a940b5dd916d289ace07c87f1ea35c930a0cdde5e4ef017a2b11eab7985"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\make_slide_figures_edit.py",
+    "destination": "archive/document-and-slide-tools/make_slide_figures_edit.py",
+    "sha256": "ecd5492411905a68acd9cabf5b31e1dee419770622aecace416fac08fe9f188a"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\merge_filename_audit_reports.py",
+    "destination": "archive/document-and-slide-tools/merge_filename_audit_reports.py",
+    "sha256": "5c0f77961d40a662ceb0acc800e733c8ed4231743250c10e7b1c0e85a4511bc4"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\package_defense_code.py",
+    "destination": "archive/document-and-slide-tools/package_defense_code.py",
+    "sha256": "24a850cb643bcac29b86f9ed479defab4ce8fa55e2866dd4d0f16841f18115a5"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\package_project_archive.py",
+    "destination": "archive/document-and-slide-tools/package_project_archive.py",
+    "sha256": "89d0dfec8f6c21ccef1c5123bbd1f402651bc28626a67b0fa8e0f893016f9686"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\paper_snippets.py",
+    "destination": "archive/document-and-slide-tools/paper_snippets.py",
+    "sha256": "a172e1f5e68203da01e2a55d384b8b3214818d347ffce899e1f25bb6644fb76d"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\patch_inline_math.py",
+    "destination": "archive/document-and-slide-tools/patch_inline_math.py",
+    "sha256": "bb9d5f31f4c7118422029749567cbcf04c3e1fba2c5927c4b1d2bd787bba284a"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\patch_thesis_citations.py",
+    "destination": "archive/document-and-slide-tools/patch_thesis_citations.py",
+    "sha256": "1be120e3cee9ceba32d525bb897594c04156ac2b7f65fa21dcb72d684bc1ec97"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\patch_thesis_map.py",
+    "destination": "archive/document-and-slide-tools/patch_thesis_map.py",
+    "sha256": "ddf06ddc6b85c05f47845c606d531302774aeae208b5f518da13e78e0b6ac53f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\patch_yolo_text.py",
+    "destination": "archive/document-and-slide-tools/patch_yolo_text.py",
+    "sha256": "9b4bede181cecdd015e76e17185744787f0ae563d9c14ffafc501147729e7048"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\prepare_code_defense_practice.py",
+    "destination": "archive/document-and-slide-tools/prepare_code_defense_practice.py",
+    "sha256": "f94dc4f401f6046346fdbed4b511de6d305bcf534ebb35558622e0d15a308bfa"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\print_citation_audit.py",
+    "destination": "archive/document-and-slide-tools/print_citation_audit.py",
+    "sha256": "de74a1dc9c305c5f7138f4070f8c1d4c171980525fce781c4b54c94ea0d0fc6b"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\rebuild_architecture_conceptual.py",
+    "destination": "archive/document-and-slide-tools/rebuild_architecture_conceptual.py",
+    "sha256": "8cbef30846ab7ee0a19d299d009a7d0bd84c193fc9f3e5b8ba986b7b5f6f929c"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\rebuild_subset_code_slide.ps1",
+    "destination": "archive/document-and-slide-tools/rebuild_subset_code_slide.ps1",
+    "sha256": "777489e4c270fe3bda957882fb079355f8a33f8ecdf3134a5c0950c0bfd304d3"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\recount_final_subset.py",
+    "destination": "archive/document-and-slide-tools/recount_final_subset.py",
+    "sha256": "d318aeda138c546d1c043ea94fd4a43d57c3d5c489a5efcd8ac177981b444e4d"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\redesign_defense_1_7.py",
+    "destination": "archive/document-and-slide-tools/redesign_defense_1_7.py",
+    "sha256": "cbf9a4c662e89530bd162ed45bf64590d78caff7ffd3f0abea842756c0f59f60"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\reduce_references.py",
+    "destination": "archive/document-and-slide-tools/reduce_references.py",
+    "sha256": "b798914197004a025f638db75ec04b5870751df66281bd5d6aca2fbcba84c961"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\refine_metrics_slide.ps1",
+    "destination": "archive/document-and-slide-tools/refine_metrics_slide.ps1",
+    "sha256": "33cba0bfdb05e8ee4c5ef2e867d1a1ec2ddc527e414475852bb68da77cfb14bb"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\refine_reference_slide.ps1",
+    "destination": "archive/document-and-slide-tools/refine_reference_slide.ps1",
+    "sha256": "a1454f11af0911c0dfd07ae6b098b7a7be35c5d43cf06b40c8bd6ac20a495cd1"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\refine_three_metric_slides.ps1",
+    "destination": "archive/document-and-slide-tools/refine_three_metric_slides.ps1",
+    "sha256": "2a26ba8c2c6e4023def7e92ab4472382072dd3cfe75b0977be30da441f320669"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\ref_order.py",
+    "destination": "archive/document-and-slide-tools/ref_order.py",
+    "sha256": "1e71c13c1d2518b2fa62a8b1cc6a77b2a9fb0fb9ffe841a7f0b1e6e423aaa1c6"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\remove_obsolete_urls.py",
+    "destination": "archive/document-and-slide-tools/remove_obsolete_urls.py",
+    "sha256": "8a82c6bb996d4d336cbe9fc1f4e25b317108eea833dda11eabe342088dcebc65"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\remove_speaker_diacritics.py",
+    "destination": "archive/document-and-slide-tools/remove_speaker_diacritics.py",
+    "sha256": "103425b6bac8d1403b6e6b5ff8a8fcb99215bb5a148f29c1364dd9968de65ded"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\render_architecture_conceptual.ps1",
+    "destination": "archive/document-and-slide-tools/render_architecture_conceptual.ps1",
+    "sha256": "4df50c9c2d3f0c49371df6cfcd20c182156c90990e1cae68efbab47397ec2f74"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\render_changed_content.py",
+    "destination": "archive/document-and-slide-tools/render_changed_content.py",
+    "sha256": "bf5aa4bae79791c0a3943f27b983c91e214ab0dcc33e05826ba883a14897ed9d"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\render_chart_guide.ps1",
+    "destination": "archive/document-and-slide-tools/render_chart_guide.ps1",
+    "sha256": "1ee162275a1c2b5112b41b4d9ff26c5188e636ea85e54968b566f8e0793adecd"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\render_refs_final.py",
+    "destination": "archive/document-and-slide-tools/render_refs_final.py",
+    "sha256": "07d0396c4bdde05b27c86e301e53616a97754caf1e32e76388b6306ebdcbb699"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\render_ref_pages.py",
+    "destination": "archive/document-and-slide-tools/render_ref_pages.py",
+    "sha256": "8793f36ef31b18d75b19569e1c965640e3980679e4a4b2b189522ac28cf22985"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\render_relevant.py",
+    "destination": "archive/document-and-slide-tools/render_relevant.py",
+    "sha256": "78913626b7d87d67eb69449d4aa872f88137f7021607b62336123d98baf5a56c"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\render_six_hour_code_guide.ps1",
+    "destination": "archive/document-and-slide-tools/render_six_hour_code_guide.ps1",
+    "sha256": "2869abcd8695d869e789f40d5949cc0f4f630e95f9168597b938bc97a69ec8d2"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\render_speaker_notes.py",
+    "destination": "archive/document-and-slide-tools/render_speaker_notes.py",
+    "sha256": "11c809d1c74401c3a6f00ec4097780ce0b629533a2b858336b5aabe8998f0184"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\render_supervisor_deck.ps1",
+    "destination": "archive/document-and-slide-tools/render_supervisor_deck.ps1",
+    "sha256": "89402867bd33feaf8a06675c9220bb436b5c16668c34cd4a57c3d5c37afbf542"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\renumber_thesis_references.py",
+    "destination": "archive/document-and-slide-tools/renumber_thesis_references.py",
+    "sha256": "5d1c65f18742b95489f49af19661c76fdf9400aa38bba099c83fc3d9d5e0f652"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\reorder_by_appearance.py",
+    "destination": "archive/document-and-slide-tools/reorder_by_appearance.py",
+    "sha256": "663a3073cf2e7d457d7618478473970d0bf0854fca3b531fd089cb00d35226c2"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\replace_metric_slides.ps1",
+    "destination": "archive/document-and-slide-tools/replace_metric_slides.ps1",
+    "sha256": "6939e2df1028e62eb14419354a359187510f1062c0ee6ece152dad9f0bdd2ac0"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\restore_iadd_original_filenames.py",
+    "destination": "archive/document-and-slide-tools/restore_iadd_original_filenames.py",
+    "sha256": "73f8c9f3294865495510e0991eb17ba875a231c5c86fd039fe117391e195c38f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\save_rtl_guides_word.ps1",
+    "destination": "archive/document-and-slide-tools/save_rtl_guides_word.ps1",
+    "sha256": "81868c3db9f8ccdefc5c8ec3d9180fccb8957fca268fd06298eae7ab64470fdd"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\shorten_filename_audit.py",
+    "destination": "archive/document-and-slide-tools/shorten_filename_audit.py",
+    "sha256": "90810b865c3c424850b15ffec69f2eda3b2d85a1f0f03d4b74faafb31d6fe848"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\shorten_scope_title.py",
+    "destination": "archive/document-and-slide-tools/shorten_scope_title.py",
+    "sha256": "18856c69e92a3ea476b9a44bc0b92640929c721c56710523fc1f5b2e246268ff"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\shorten_slide6_title.py",
+    "destination": "archive/document-and-slide-tools/shorten_slide6_title.py",
+    "sha256": "dad45fd1bb734e691d2f927908294e3cf51ddf82aac06e123c81a293585882e1"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\shorten_subset_output.py",
+    "destination": "archive/document-and-slide-tools/shorten_subset_output.py",
+    "sha256": "232d0567329a01af32afd619af48071888988656b8d525b02ef83adc3b77797b"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\simplify_subset_output.py",
+    "destination": "archive/document-and-slide-tools/simplify_subset_output.py",
+    "sha256": "5c66d463cb9fd3c7d0b237d04620d11bcb925d8ba8a87cb3e621059e8c0ded57"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\simplify_validity_charts.py",
+    "destination": "archive/document-and-slide-tools/simplify_validity_charts.py",
+    "sha256": "29f97d99f6f01b41fb29c3dd5115246111847839dababbe6e87d3e13edc47b9a"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\split_condition_slide.ps1",
+    "destination": "archive/document-and-slide-tools/split_condition_slide.ps1",
+    "sha256": "60baee4d3dd3aa38734b918a97d9664c397117928ce8f6e944d5f890db162386"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\sync_speaker_notes.py",
+    "destination": "archive/document-and-slide-tools/sync_speaker_notes.py",
+    "sha256": "8075df22db8d6322cfa84f2d6681b96edcd8d9577bc593dc8f607c135b131195"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\update_and_export_refs.ps1",
+    "destination": "archive/document-and-slide-tools/update_and_export_refs.ps1",
+    "sha256": "9fa32c4da8b987215954b1ee09cb1f4793d0b43f66cf6804145189648a9410a3"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\update_defense_stage1.py",
+    "destination": "archive/document-and-slide-tools/update_defense_stage1.py",
+    "sha256": "1f1e87a30a6fedb401ce99a68e86e809ee8d91818d146d9e6362eccd96e93b7e"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\update_defense_stage2.py",
+    "destination": "archive/document-and-slide-tools/update_defense_stage2.py",
+    "sha256": "4637d50f35323fac48f92a117d56ea2e19a2e072ae6a5b60b5dbc8a6c4696e47"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\update_speaker_script_stage2.py",
+    "destination": "archive/document-and-slide-tools/update_speaker_script_stage2.py",
+    "sha256": "234f01ba0f15bc2c9c63bfd4c4f1ca08e6b78194de2a4f942a881c5289828fe2"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\update_speaker_slide7.py",
+    "destination": "archive/document-and-slide-tools/update_speaker_slide7.py",
+    "sha256": "89d6c4025b8024603c91105a7be171d036cbc3a0e7d8cefaf5c20f66bb5fc4eb"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\update_weather_examples.py",
+    "destination": "archive/document-and-slide-tools/update_weather_examples.py",
+    "sha256": "aae8c2acf6eaab124f106c8ad510e44397422aeb7910f6e073cebc345c906e6d"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\validate_fonts.py",
+    "destination": "archive/document-and-slide-tools/validate_fonts.py",
+    "sha256": "5d2047c8585935ea4e58c8a92bad95cd04bc05a0989e1637ffb5ad6422ad3b94"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\validate_iadd_outputs.py",
+    "destination": "archive/document-and-slide-tools/validate_iadd_outputs.py",
+    "sha256": "52bbc221a728e22b398604d20c975eeb4077c185e4b7d6715976ce422b507153"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\validate_map.py",
+    "destination": "archive/document-and-slide-tools/validate_map.py",
+    "sha256": "6268eac744c1300c08226b5a04bb8282cf5229835f544f2bbf6c6eed6e38772b"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\validate_reduced_refs.py",
+    "destination": "archive/document-and-slide-tools/validate_reduced_refs.py",
+    "sha256": "1b28212414fb7b0bbd206b9a5eca2edc6690e9447f78d77d6b9e0a1f96932a92"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\validate_short_guide.py",
+    "destination": "archive/document-and-slide-tools/validate_short_guide.py",
+    "sha256": "b0aa3cbb23d32d3f17c5ebf554292541d4828959bad06ab819e26c2e869abab9"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\verify_first_ten.ps1",
+    "destination": "archive/document-and-slide-tools/verify_first_ten.ps1",
+    "sha256": "646e2812a68b27b99741ba6121244ed9c1efe0fe17085b34d8f24eb0c85e7258"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\verify_preserved_slides.ps1",
+    "destination": "archive/document-and-slide-tools/verify_preserved_slides.ps1",
+    "sha256": "b856691d669c492a7740256c2c8aadc27ed1f1134a0118989a6e468eaf76a929"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\verify_renumbered_thesis.py",
+    "destination": "archive/document-and-slide-tools/verify_renumbered_thesis.py",
+    "sha256": "e1c8fc285e818ae8c0df3e0a30a19f19cba7ab3b30a1e51163d1e53ab2a4ce4b"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\verify_subs.py",
+    "destination": "archive/document-and-slide-tools/verify_subs.py",
+    "sha256": "f409e0ff63d74363b2128633fe5835089ea9e3c4afc5e7e78241137666095813"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\word_export.ps1",
+    "destination": "archive/document-and-slide-tools/word_export.ps1",
+    "sha256": "bcdab0c0bf3035e95e7f48be9cdbd5a4fd994190648ac3b82a5ea3afcba1f2fa"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\build_subset_v5.py",
+    "destination": "code/build_subset_v5.py",
+    "sha256": "0a6c28dd0ea9e0871c3fa41ffa9a443f02291d84d0c08efeffa572fe092707ec"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_run8.ipynb",
+    "destination": "code/IADD_YOLOv11_Colab_run8.ipynb",
+    "sha256": "dbdb25a0eed4c145ca164ddd2f23647c442b20539815675a7f80299769c21806"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\colab\\IADD_YOLOv11_Colab_pervideo.ipynb",
+    "destination": "code/IADD_YOLOv11_Colab_pervideo.ipynb",
+    "sha256": "b231daad6c393e438eaba32c829e5772ae7b798fbcb4fbe75ea6a4eb39778c00"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\ارسالی\\codes\\make_figures_ch2.py",
+    "destination": "code/make_figures_ch2.py",
+    "sha256": "2a0baad7396ed3c05f656040af820677a8c6a82be6d63d05bead224bd46288c5"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\ارسالی\\codes\\make_figures_ch3.py",
+    "destination": "code/make_figures_ch3.py",
+    "sha256": "fd7ed12a2824ad6b15bafc4ab894dd74082bdd34ac684ea2204c4a7ed8868a28"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل3_نتایج\\کد\\render_plain_gt.py",
+    "destination": "code/render_plain_gt.py",
+    "sha256": "7823c181f882d272f3589879684b511e93a11fc0f2e62f244de06c922954ae7c"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\فصل3_نتایج\\کد\\render_plain_boxes.py",
+    "destination": "code/render_plain_boxes.py",
+    "sha256": "0d60437b36da8c13cd403af2771a64a62d49dc13c7027461fcc8558ab22469ff"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\ارسالی\\codes\\export_eval_curves.py",
+    "destination": "code/export_eval_curves.py",
+    "sha256": "b768cb64b2539f88060c04d184d98b97426f7bea00b57e47276c1c248bdd8909"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\thesis\\00_قالب_و_آیین‌نامه\\figstyle.py",
+    "destination": "code/figstyle.py",
+    "sha256": "4b3348bbc7054c21af31bc91933e9f586ae346e618317bddba050846a238c7be"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\05__audit_duplicate_pairs.py",
+    "destination": "code/audit_duplicate_pairs.py",
+    "sha256": "dfc9a8e406a57c87d02092fc11d7e3bd6b56fb611d3ad8d1e6039f366c8a77f3"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\other codes\\audit_duplicate_filenames.py",
+    "destination": "code/audit_duplicate_filenames.py",
+    "sha256": "27ccaa939c1a2f1607c718fd1e4f60ea7e1242a6062087556f79ca0935436693"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\other codes\\make_label_evidence.py",
+    "destination": "code/make_label_evidence.py",
+    "sha256": "d7a0347ab8e3f3a21fa25c68496618f1ea05a17ad7629c196de0ffe84961180b"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\codes\\demo_boxes.py",
+    "destination": "code/demo_boxes.py",
+    "sha256": "ae082a74933f28e9220bff985cc362083f95ce4b7cd9d0a08d557a92bd37afeb"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\train_iadd_yolov11.py",
+    "destination": "archive/early-training/train_iadd_yolov11.py",
+    "sha256": "64af52aa217ed6a8701d8583840817e32af461fff11eead5927dbdb943c62d26"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\pervideo_run5.csv",
+    "destination": "record review/pervideo_run5.csv",
+    "sha256": "03db83d5034fd66d50c7d8562d1c40bd336e8787cd23d759e80f19d6ed7d7822"
+  },
+  {
+    "source": "D:\\projects\\car-detection-yolo\\docs\\dataset\\dataset_label_evidence\\SUMMARY.csv",
+    "destination": "record review/historical/dataset_label_evidence/SUMMARY.csv",
+    "sha256": "819846f0c79b019075b788c281b352a5879fe47129e477ca398023c818c6fe05"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\01__IADD_YOLOv11_Colab_run8.ipynb",
+    "destination": "archive/study-code/01__IADD_YOLOv11_Colab_run8.ipynb",
+    "sha256": "dbdb25a0eed4c145ca164ddd2f23647c442b20539815675a7f80299769c21806"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\02__build_subset_v5.py",
+    "destination": "archive/study-code/02__build_subset_v5.py",
+    "sha256": "5d15843cbc6e170d7c212e7175bade3e7bf2dd0f195702e9a83a56c7595ae2da"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\02__build_subset_v5_simple.py",
+    "destination": "archive/study-code/02__build_subset_v5_simple.py",
+    "sha256": "397330d5575cac6ae887c806f51127ee740c9cd324a85ec34eef0654d3a48892"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\03__IADD_YOLOv11_Colab_pervideo.ipynb",
+    "destination": "archive/study-code/03__IADD_YOLOv11_Colab_pervideo.ipynb",
+    "sha256": "9cc094bc0cad8af30be8d0f3d95bf5dfcf61ca3faa8e71a108c93137f91f95af"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\04__make_label_evidence.py",
+    "destination": "archive/study-code/04__make_label_evidence.py",
+    "sha256": "d7a0347ab8e3f3a21fa25c68496618f1ea05a17ad7629c196de0ffe84961180b"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\05__audit_duplicate_pairs.py",
+    "destination": "archive/study-code/05__audit_duplicate_pairs.py",
+    "sha256": "dfc9a8e406a57c87d02092fc11d7e3bd6b56fb611d3ad8d1e6039f366c8a77f3"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\06__compute_v5_validity.py",
+    "destination": "archive/study-code/06__compute_v5_validity.py",
+    "sha256": "a1faf055fc9d3f639e483097557fa07a53ccece062b80547bc36ddbe3cc6583e"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\06__compute_v5_validity_simple.py",
+    "destination": "archive/study-code/06__compute_v5_validity_simple.py",
+    "sha256": "39b779309d2a9f8b35f119a9c090c611f1391b3f1def745bc1d9ce9c931fd52b"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\08__make_figures_ch2.py",
+    "destination": "archive/study-code/08__make_figures_ch2.py",
+    "sha256": "2f788fee6792eb85c1beb07d350c0acffa1bc9702f197f1f1983f5749bf580a4"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\09__make_figures_ch3.py",
+    "destination": "archive/study-code/09__make_figures_ch3.py",
+    "sha256": "fd7ed12a2824ad6b15bafc4ab894dd74082bdd34ac684ea2204c4a7ed8868a28"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\10__export_eval_curves.py",
+    "destination": "archive/study-code/10__export_eval_curves.py",
+    "sha256": "8f4c4989b024b583922558436423b15643edd37283d0c0d96c3ac6a2b18cbe0e"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\11__demo_boxes_simple.py",
+    "destination": "archive/study-code/11__demo_boxes_simple.py",
+    "sha256": "74abbaf820bc228ab277763e5713e8976663a7c6541af18a524704e780669eac"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\12a__render_plain_gt.py",
+    "destination": "archive/study-code/12a__render_plain_gt.py",
+    "sha256": "7823c181f882d272f3589879684b511e93a11fc0f2e62f244de06c922954ae7c"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\01_کدهای مطالعه به ترتیب\\12b__render_plain_boxes.py",
+    "destination": "archive/study-code/12b__render_plain_boxes.py",
+    "sha256": "0d60437b36da8c13cd403af2771a64a62d49dc13c7027461fcc8558ab22469ff"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\مطالعه\\راهنمای_شش‌ساعته_کدهای_پروژه.docx",
+    "destination": "docs/study-guides/راهنمای_شش‌ساعته_کدهای_پروژه.docx",
+    "sha256": "d2462ce3d3bf308e24b1aabc4f49d2576bfcb435c936cd54940c9e16c6d97bee"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\مطالعه\\راهنمای_فارسی_مطالعه_مقاله_IADD.docx",
+    "destination": "docs/study-guides/راهنمای_فارسی_مطالعه_مقاله_IADD.docx",
+    "sha256": "2d44941347225f945a65bb6b6636bc5df4b00636be53269902311aa69ad67005"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\مطالعه\\مطالعه معماری و پرسش‌های دفاع\\۰۱_آموزش_گام‌به‌گام_معماری_YOLOv11s.docx",
+    "destination": "docs/study-guides/مطالعه معماری و پرسش‌های دفاع/۰۱_آموزش_گام‌به‌گام_معماری_YOLOv11s.docx",
+    "sha256": "bc38ca29560852d34c1965a0e8c4d9564686495cc2db51cd243fc5549ca4302f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\مطالعه\\مطالعه معماری و پرسش‌های دفاع\\۰۲_پرسش‌وپاسخ_جامع_دفاع.docx",
+    "destination": "docs/study-guides/مطالعه معماری و پرسش‌های دفاع/۰۲_پرسش‌وپاسخ_جامع_دفاع.docx",
+    "sha256": "48b3fdd7e2c5013ddae130e0fa2f5c6584718f3ff1b63ebfebd2bce3ae5ad111"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\مطالعه\\مطالعه معماری و پرسش‌های دفاع\\۰۳_راهنمای_تحلیل_نمودارها_و_نتایج.docx",
+    "destination": "docs/study-guides/مطالعه معماری و پرسش‌های دفاع/۰۳_راهنمای_تحلیل_نمودارها_و_نتایج.docx",
+    "sha256": "a77a561f1286c092207de7f707d089bf1870240a63833ce87e40d6921a81851a"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\documents\\متن_ارائه_دفاع_۲۵_تا_۳۰_دقیقه.docx",
+    "destination": "docs/study-guides/defense-speaking-notes.docx",
+    "sha256": "1a7af814f27bf5f87896690cdb9a5ca354adf465da323da0063f977764f34568"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\documents\\پایان‌نامه.docx",
+    "destination": "presentation and thesis/thesis.docx",
+    "sha256": "aeed2e01d7ceecb181bd0c2ed0e21584a29867e8ef4c7d52d398541360224b9e"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\car-detection-yolo\\presentation and thesis\\ارائه-دفاع.pptx",
+    "destination": "presentation and thesis/presentation.pptx",
+    "sha256": "cf86b6edad778a59449ae4f008b11602e2b5095892a028d3c50003c78445205f"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\ارسالی\\plots and pictures\\شکل_۱-۱.drawio",
+    "destination": "figures/editable/شکل_۱-۱.drawio",
+    "sha256": "4520359c42c688614ca1e13f0855a472f73d337300056771b6b1484088c28987"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\ارسالی\\plots and pictures\\شکل_۲-۱.drawio",
+    "destination": "figures/editable/شکل_۲-۱.drawio",
+    "sha256": "0c8578600018ea2b560440db2e87cd9e218b776f1fbd1a5ef4edb4c8dd3a0689"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\cat-claude\\model_verified.json",
+    "destination": "models/checkpoint-inspection-original.json",
+    "sha256": "dcfc68f9daab5726e8e1dfffd934fdb38cec433262d793f2257b1d008d6820e4"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\other codes\\iadd_validity\\class_dist.png",
+    "destination": "figure and table data/original-iadd/class_dist.png",
+    "sha256": "2da17a35cb3e9640ba38562db5577b60d4c6ad3bfd851313180f5ab8142ca350"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\other codes\\iadd_validity\\compute_iadd_validity.py",
+    "destination": "figure and table data/original-iadd/compute_iadd_validity.py",
+    "sha256": "da9f541ae3d01ae6e3b25a5cf3344d09264b5d8ef0b768c702fff2724fc279fe"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\other codes\\iadd_validity\\conditions.csv",
+    "destination": "figure and table data/original-iadd/conditions.csv",
+    "sha256": "fc9aac89a629a590027cc05a6ef1bccb9cab094fcb31a8ffe54a54f2581711f0"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\other codes\\iadd_validity\\cond_dist.png",
+    "destination": "figure and table data/original-iadd/cond_dist.png",
+    "sha256": "d88376f9b253778cb28e382959ebe760b099cc1a05bb0b819d3165ca8b08db36"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\other codes\\iadd_validity\\figstyle.py",
+    "destination": "figure and table data/original-iadd/figstyle.py",
+    "sha256": "4b3348bbc7054c21af31bc91933e9f586ae346e618317bddba050846a238c7be"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\other codes\\iadd_validity\\size_dist.png",
+    "destination": "figure and table data/original-iadd/size_dist.png",
+    "sha256": "5f478327f0eae837539706ac1dd485768f1f0e30ac2b0368c1c1313fcb62609a"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\other codes\\iadd_validity\\stats.json",
+    "destination": "figure and table data/original-iadd/stats.json",
+    "sha256": "e7c412d23a1f1319389e49b464e9e668678de1e813fef7d154b90b4406260ef0"
+  },
+  {
+    "source": "C:\\Users\\amir2\\Desktop\\extra data\\other codes\\iadd_validity\\summary.csv",
+    "destination": "figure and table data/original-iadd/summary.csv",
+    "sha256": "4fa519211b2a08b98d361a45116d578b09e67b511d8c3518b7a2b1682a2895fe"
+  }
+]

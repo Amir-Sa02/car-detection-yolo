@@ -1,0 +1,22 @@
+[
+  {
+    "image": "Record003_D__Record003_D_100.jpg",
+    "split": "test",
+    "condition": "D"
+  },
+  {
+    "image": "Record020_N__Record020_N_Record020_N_041130.jpg",
+    "split": "test",
+    "condition": "N"
+  },
+  {
+    "image": "Record201_R__Record201_R_10.jpg",
+    "split": "test",
+    "condition": "R"
+  },
+  {
+    "image": "Record105_A__Record105_A_11.jpg",
+    "split": "test",
+    "condition": "A"
+  }
+]

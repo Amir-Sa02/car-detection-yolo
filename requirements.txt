@@ -1,0 +1,9 @@
+# Version recorded inside the final training checkpoint.
+ultralytics==8.4.120
+numpy
+pandas
+matplotlib
+Pillow
+PyYAML
+arabic-reshaper
+python-bidi

@@ -1,0 +1,76 @@
+=== cell 8 ===
+!rm -rf /content/iadd_subset_v3
+!unzip -q "/content/drive/MyDrive/iadd_subset_v3.zip" -d /content
+!ls /content/iadd_subset_v3
+
+=== cell 10 ===
+print(open('/content/iadd_subset_v3/data.yaml').read())
+
+=== cell 12 ===
+from ultralytics import YOLO
+import os
+
+# ---- CONFIG ----
+MODEL = 'yolo11m.pt'      # final run. Quick test: 'yolo11s.pt'
+BATCH = 8                 # T4+yolo11m: 4-8 | yolo11s: 16 | V100 32GB: 16-32
+IMGSZ = 960
+# ----------------
+
+DRIVE_PROJECT = '/content/drive/MyDrive/iadd_runs'
+RUN_NAME      = 'run3'
+DATA          = '/content/iadd_subset_v3/data.yaml'
+CKPT          = f'{DRIVE_PROJECT}/{RUN_NAME}/weights/last.pt'
+
+if os.path.exists(CKPT):
+    print('Checkpoint found on Drive -> RESUMING:', CKPT)
+    model = YOLO(CKPT)
+    results = model.train(resume=True)
+else:
+    print('No checkpoint -> starting a FRESH run with', MODEL)
+    model = YOLO(MODEL)
+    results = model.train(
+        data=DATA, epochs=150, patience=20, imgsz=IMGSZ, batch=BATCH,
+        project=DRIVE_PROJECT, name=RUN_NAME, exist_ok=True, plots=True,
+    )
+
+=== cell 14 ===
+import pandas as pd
+csv = '/content/drive/MyDrive/iadd_runs/run3/results.csv'
+df = pd.read_csv(csv)
+df.columns = [c.strip() for c in df.columns]
+print('epochs done:', len(df))
+df[['epoch','metrics/mAP50(B)','metrics/mAP50-95(B)',
+    'metrics/precision(B)','metrics/recall(B)']].tail(10)
+
+=== cell 16 ===
+from ultralytics import YOLO
+from IPython.display import Image, display
+import os
+
+best = YOLO('/content/drive/MyDrive/iadd_runs/run3/weights/best.pt')
+m = best.val(data='/content/iadd_subset_v3/data.yaml', split='val',
+             project='/content/drive/MyDrive/iadd_runs', name='run3_val',
+             plots=True, exist_ok=True)
+print('VAL  mAP@0.5:', round(m.box.map50,4), '| mAP@0.5:0.95:', round(m.box.map,4),
+      '| P:', round(m.box.mp,4), '| R:', round(m.box.mr,4))
+
+d = '/content/drive/MyDrive/iadd_runs/run3_val'
+for n in ['confusion_matrix_normalized.png','BoxPR_curve.png','BoxF1_curve.png']:
+    p=os.path.join(d,n)
+    if os.path.exists(p): print(n); display(Image(filename=p, width=760))
+
+=== cell 18 ===
+best = YOLO('/content/drive/MyDrive/iadd_runs/run3/weights/best.pt')
+mt = best.val(data='/content/iadd_subset_v3/data.yaml', split='test',
+              project='/content/drive/MyDrive/iadd_runs', name='run3_test',
+              plots=True, exist_ok=True)
+print('TEST mAP@0.5:', round(mt.box.map50,4), '| mAP@0.5:0.95:', round(mt.box.map,4),
+      '| P:', round(mt.box.mp,4), '| R:', round(mt.box.mr,4))
+
+=== cell 20 ===
+import glob
+from IPython.display import Image, display
+imgs = sorted(glob.glob('/content/iadd_subset_v3/images/test/*.jpg'))[:8]
+pred = best.predict(imgs, conf=0.47, save=True)
+for p in sorted(glob.glob(f'{pred[0].save_dir}/*.jpg'))[:8]:
+    display(Image(filename=p, width=760))

@@ -1,165 +1,69 @@
-# Traffic Object Detection with YOLOv11 on IADD
+# IADD road-user detection with YOLO11s
 
-An undergraduate Computer Engineering project on traffic-object detection in Iranian driving scenes. The project fine-tunes **YOLOv11s** on a carefully rebuilt subset of the **Iranian Autonomous Driving Dataset (IADD)** and focuses on both model performance and the validity of the evaluation protocol.
+Undergraduate final project by Mohammad Amir Sadeghzadeh. This repository preserves the code, final documents, experiment outputs, inference model and decisions needed to revisit the project after removing the original working directories.
 
-The six detection classes are:
+The work covers two stages: creating a video-separated subset from labeled IADD data, then fine-tuning a pretrained YOLO11s detector. Labels: `person`, `car`, `motorcycle`, `bus`, `truck`, `traffic_light`. This is object detection, including localization. Cargo vehicles include pickups; `person` is not restricted to pedestrians outside vehicles.
 
-- Person
-- Car
-- Motorcycle
-- Bus
-- Truck
-- Traffic light
+## Final dataset
 
-## Project Overview
-
-The public IADD package contains real driving scenes collected in several Iranian cities and under different environmental conditions. During the initial data audit, the following issues were identified:
-
-- The public test images did not include accessible label files.
-- Frames originating from the same video could appear in different official splits.
-- Three duplicate-video pairs were detected.
-- Two videos contained confirmed labeling problems.
-- Class frequency, object size, and environmental conditions were strongly imbalanced.
-
-To obtain a more reliable evaluation, the labeled IADD data were rebuilt into a new subset using a **whole-video split**. All frames belonging to one video were assigned to exactly one of the training, validation, or test sets. Duplicate and invalid videos were excluded before sampling.
-
-![Dataset preparation workflow](figures/fig_2_1.png)
-
-## Final Dataset Subset
-
-| Split | Videos | Images | Object instances | Instances per image |
+| Split | Videos | Images | Annotation instances | Image share |
 |---|---:|---:|---:|---:|
-| Training | 79 | 26,000 | 204,009 | 7.85 |
-| Validation | 39 | 5,571 | 36,810 | 6.61 |
-| Test | 42 | 5,571 | 34,994 | 6.28 |
-| **Total** | **160** | **37,142** | **275,813** | — |
+| Train | 79 | 26,000 | 204,009 | 70% |
+| Validation | 39 | 5,571 | 36,810 | 15% |
+| Test | 42 | 5,571 | 34,994 | 15% |
+| Total | 160 | 37,142 | 275,813 | 100% |
 
-The split builder balances the data using video-level information about:
+Shares refer to images, not videos. An instance means one annotation row, including repeated appearances of an object in different frames.
 
-- Rare classes: motorcycle, bus, and traffic light
-- Environmental conditions: day, night, rain, and cloudy scenes
-- Object-size distribution
-- Target image counts of approximately 70% / 15% / 15%
+The final main `run8` checkpoint achieved approximately **mAP@0.5 = 0.874**, **mAP@0.5:0.95 = 0.707**, mean precision 0.803 and mean recall 0.818 on the test split. These are archived historical results. The final operating confidence was **0.406**, selected from validation F1; AP curves were evaluated separately over a range of confidence thresholds.
 
-The final subset itself is not included in this repository. Download the source dataset from the [official IADD repository](https://github.com/ahv1373/IADD), then update the local paths in the subset-building scripts.
+## Start here
 
-## Dataset Cleaning
+- [Persian quick review](docs/QUICK_REVIEW_FA.md): a short reminder for returning to the project.
+- [Project memory](docs/PROJECT_MEMORY.md): decisions, exclusions, definitions and caveats.
+- [Reproduction guide](docs/REPRODUCING.md): code entry points and commands.
+- [Experiment record](docs/EXPERIMENTS.md): actual optimizer settings, checkpoints and evaluation.
+- [Figure sources](docs/FIGURES.md): table/chart inputs and editable diagrams.
+- [Archive and cleanup](docs/ARCHIVE_AND_CLEANUP.md): what to preserve before deleting local data.
 
-The following videos were excluded before creating the final subset:
+## Quick demonstration
 
-- Confirmed labeling problems: `Record426_D`, `Record046_D`
-- One member of each duplicate pair: `Record407_D`, `Record416_R`, `Record043_D`
-
-Duplicate candidates were screened using perceptual difference hashes and then verified by visual inspection of matched frames and temporal sequences. Label problems were confirmed by drawing the original YOLO annotations on sampled frames and inspecting the resulting boxes.
-
-## Model and Training
-
-The final model is **YOLOv11s**, initialized from COCO-pretrained weights and fine-tuned on the rebuilt IADD subset.
-
-Main configuration:
-
-| Setting | Value |
-|---|---:|
-| Input size | 1280 px |
-| Batch size | 12 |
-| Optimizer | AdamW |
-| Initial learning rate | 0.001 |
-| Learning-rate schedule | Cosine |
-| Epochs | 62 |
-| Early-stopping patience | 10 |
-| MixUp probability | 0.1 |
-| Rotation | 5 degrees |
-| Brightness variation (`hsv_v`) | 0.4 |
-
-The complete training and evaluation workflow is available in:
-
-[`code/IADD_YOLOv11_Colab_run8.ipynb`](code/IADD_YOLOv11_Colab_run8.ipynb)
-
-## Final Test Results
-
-The selected model reached:
-
-| Metric | Test result |
-|---|---:|
-| Precision | 0.803 |
-| Recall | 0.818 |
-| F1 score | 0.808 |
-| mAP@0.5 | **0.874** |
-| mAP@0.5:0.95 | **0.707** |
-
-Per-class AP@0.5:
-
-| Class | AP@0.5 |
-|---|---:|
-| Person | 0.868 |
-| Car | 0.969 |
-| Motorcycle | 0.928 |
-| Bus | 0.798 |
-| Truck | 0.867 |
-| Traffic light | 0.813 |
-
-![Training curves](figures/fig_3_1.png)
-
-## Repository Structure
-
-```text
-car-detection-yolo/
-├── code/                       # Dataset preparation, training, evaluation, and plotting code
-├── figure and table data/      # CSV, JSON, and NPZ data used to reproduce tables and plots
-├── figures/                    # Thesis and presentation figures
-├── presentation and thesis/   # Final thesis and defense presentation
-├── record review/              # Video-level audit summaries and evidence
-└── runs/                       # Saved outputs for the baseline and final experiments
+```bash
+python -m pip install -r requirements.txt
+python code/demo_boxes.py
+python code/make_figures_ch2.py
+python code/make_figures_ch3.py
 ```
 
-### Important Files
+The demo uses an included image/label and the final model. It writes separate ground-truth and prediction images. Chart commands use archived numerical inputs, without retraining or reevaluating. New outputs go in ignored `outputs/`.
 
-- `code/build_subset_v5.py` — builds the final video-level dataset split.
-- `code/audit_duplicate_pairs.py` — reproduces the duplicate-video screening.
-- `code/make_label_evidence.py` — draws original labels for visual inspection.
-- `code/compute_v5_validity.py` — calculates split statistics and distributions.
-- `code/IADD_YOLOv11_Colab_run8.ipynb` — final training and evaluation notebook.
-- `code/export_eval_curves.py` — exports evaluation curves for later plotting.
-- `code/make_figures_ch2.py` — creates dataset-analysis figures.
-- `code/make_figures_ch3.py` — creates model-result figures.
+The recorded training library was **Ultralytics 8.4.120**. `models/run8_best.pt` is an inference checkpoint with **9,430,114 model parameters**. It does not include the original optimizer state and cannot resume the historical session.
 
-## Reproducing the Workflow
+## Repository map
 
-1. Install Python and the required packages:
+| Location | Contents |
+|---|---|
+| `code/` | Dataset construction, analysis, evaluation, charts, evidence and demo tools |
+| `models/` | Final inference model and original checkpoint metadata |
+| `dataset manifests/` | Exact V5 image/split list, hashes, record assignments and counted statistics |
+| `figure and table data/` | Saved statistics, evaluation arrays, per-class metrics and original-IADD summaries |
+| `runs/run8/` | Main/finishing settings, training records and evaluation plots |
+| `record review/` | Earlier per-video screening results |
+| `figures/` | Final figures, editable reconstructed diagrams and qualitative source tiles |
+| `presentation and thesis/` | Final Word thesis, PowerPoint and existing PDF exports |
+| `docs/study-guides/` | Persian study documents and speaking notes |
+| `archive/` | Earlier notebooks, experiment outputs, authoring tools and defense-edited code |
 
-   ```bash
-   pip install ultralytics numpy pandas matplotlib pillow opencv-python
-   ```
+The active final training notebook is `code/IADD_YOLOv11_Colab_run8.ipynb`. The `pervideo` notebook is an earlier V4/run5 diagnostic. Historical scripts may contain old absolute paths or one-off document repairs; they are not current entry points.
 
-2. Download IADD from its [official repository](https://github.com/ahv1373/IADD).
-3. Update `SRC` and `OUT` in `code/build_subset_v5.py`.
-4. Build the final subset:
+## Dataset access
 
-   ```bash
-   python code/build_subset_v5.py
-   ```
+- [IADD project and multipart downloads](https://github.com/ahv1373/IADD)
+- [Original IADD article](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12710)
+- [Author-provided Drive folder](https://drive.google.com/drive/folders/1uC7HJFWZ-ysFRPSJ_Fdu5yY4Ul3Erd9-?usp=sharing)
 
-5. Upload the subset to Google Drive or make it available to Colab.
-6. Run `code/IADD_YOLOv11_Colab_run8.ipynb` in order.
-7. Use the exported CSV, JSON, and NPZ files to reproduce the thesis figures.
+Full dataset images are not stored in Git. The author-provided Drive folder was reachable without signing in during archiving and its page listed `iadd_subset_v5.zip`. The archive itself was not downloaded or integrity-checked. Confirm its complete image/label contents before deleting the local dataset.
 
-## Documents
+We used the publicly labeled original training and validation portions. The downloaded original test portion lacked labels and was excluded. Our new test split comes from previously labeled source videos, without a complete new relabeling campaign.
 
-- [Thesis PDF](presentation%20and%20thesis/thesis.pdf)
-- [Thesis source](presentation%20and%20thesis/thesis.docx)
-- [Defense presentation PDF](presentation%20and%20thesis/presentation.pdf)
-- [Defense presentation source](presentation%20and%20thesis/presentation.pptx)
-
-## References
-
-The primary dataset reference is:
-
-> A. Khosravian, A. Amirkhani, M. Masih-Tehrani, and A. Yazdanijoo, “Multi-domain autonomous driving dataset: Towards enhancing the generalization of the convolutional neural networks in new environments,” *IET Image Processing*, vol. 17, pp. 1253–1266, 2023. [https://doi.org/10.1049/ipr2.12710](https://doi.org/10.1049/ipr2.12710)
-
-Additional references are listed in the thesis.
-
-## Notes
-
-- The original IADD images and the rebuilt dataset subset are not redistributed in this repository.
-- Saved run artifacts are included for reproducibility and result verification.
-- The repository documents an undergraduate academic project and does not provide production autonomous-driving software.
+Exact-manifest restoration is preferable to rerunning the heuristic against a changed source tree. Dataset, article and library rights remain with their owners; this repository does not grant a new license to redistribute third-party data or papers.

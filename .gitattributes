@@ -1,0 +1,2 @@
+# Preserve archived bytes and SHA-256 checks across Windows/Linux checkouts.
+* -text

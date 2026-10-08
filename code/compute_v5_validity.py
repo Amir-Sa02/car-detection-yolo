@@ -5,8 +5,16 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-DS = r"D:\projects\car-detection-yolo\dataset\iadd_subset_v5"
-OUT = r"D:\projects\car-detection-yolo\docs\dataset_validity"
+from pathlib import Path
+from argparse import ArgumentParser
+ROOT = Path(__file__).resolve().parents[1]
+parser = ArgumentParser(description="Count V5 labels and plot dataset distributions.")
+parser.add_argument("--dataset", default=str(ROOT / "dataset/iadd_subset_v5"))
+parser.add_argument("--output", default=str(ROOT / "outputs/dataset_validity"))
+args = parser.parse_args()
+DS, OUT = args.dataset, args.output
+if not Path(DS).is_dir():
+    raise SystemExit("Dataset folder is missing: " + DS)
 os.makedirs(OUT, exist_ok=True)
 NAMES = ["person", "car", "motorcycle", "bus", "truck", "traffic_light"]
 SMALL, LARGE = 0.01, 0.06
@@ -17,6 +25,8 @@ COL = {"train": "#1f4e79", "val": "#2eb669", "test": "#e08a00"}
 def analyze(split):
     imgs = glob.glob(f"{DS}/images/{split}/*.jpg")
     cls = Counter(); size = Counter(); cond = Counter(); inst = 0; vids = set()
+
+    # Loop through images in the split and gather statistics
     for p in imgs:
         stem = os.path.basename(p)[:-4]
         rec = stem.split("__")[0]
@@ -60,7 +70,7 @@ S = {sp: analyze(sp) for sp in SPLITS}
 json.dump(S, open(f"{OUT}/stats.json", "w"), indent=2)
 
 # chart 1: class distribution
-#  Plot each class's share of all object instances within each split.
+# Plot each class's share of all object instances within each split.
 # Place train, val, and test bars side by side, then save the chart as class_dist.png.
 fig, ax = plt.subplots(figsize=(8, 4))
 x = range(6)
@@ -69,7 +79,7 @@ for i, sp in enumerate(SPLITS):
     tot = S[sp]["instances"]
     vals = []
     # For each class, compute its percentage of the total instances in the split.
-    for c in range(6):  
+    for c in range(6):
         count = S[sp]["cls"][c]
         percent = 100 * count / tot
         vals.append(percent)
